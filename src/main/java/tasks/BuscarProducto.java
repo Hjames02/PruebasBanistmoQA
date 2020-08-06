@@ -28,10 +28,11 @@ public class BuscarProducto implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
-                Enter.theValue(dato1).into(INPUT_BUSCAR_DATO),
+                //Enter.theValue(dato1).into(INPUT_BUSCAR_DATO),
                 //SelectFromOptions.byVisibleText(dato2).from(),
-                Hit.the(Keys.ENTER).into(BUTTON_BUSCAR_DATO)
-                //Click.on()
+                //Hit.the(Keys.ENTER).into(BUTTON_BUSCAR_DATO)
+                Click.on(ENLACE_TARIFARIO),
+                Click.on(ENLACE_PDF)
         );
     }
 }

@@ -154,7 +154,7 @@
             <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 05-08-2020 20:44</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 06-08-2020 11:26</span>
     <br style="clear:left"/>
 </div>
 
@@ -195,9 +195,9 @@
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></a></span>
+                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></a></span>
                             <span class="test-case-title">
-                                <span class="success-color">Agregar algo
+                                <span class="failing-color">Agregar algo
                                     <span class="related-issue-title"></span>
                                 </span>
                             </span>
@@ -214,20 +214,62 @@
 
     <div id="beforetable"></div>
     <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">Element should be enabled exception: Expected enabled element was not enabled</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-overall">
+            <div class="card">
+                <div class="card-header">
+                    <h4>net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>tasks.BuscarProducto.performAs(BuscarProducto.java:30)<br />stepsdefinitions.PruebaBanistmoSteps.estoSeDeConEsteDato(PruebaBanistmoSteps.java:35)<br />cucumber.runner.Runner.runPickle(Runner.java:80)<br /></pre>
+                    </div>
+
+                    <h4>
+                        Caused by: org.openqa.selenium.TimeoutException
+                    </h4>
+                    <div>
+                            <pre>Expected condition failed: waiting for By.xpath: //table[@class='table-responsive']/a[@href='/wps/wcm/connect/ac735c4e-a3fc-4ac4-95fe-627c7fd4d337/S83-Tarifario-TDCTDD-julio2020+-+WEB+%281%29+%281%29.pdf?MOD=AJPERES&amp;amp;CVID=ndTZuDZ'] to be enabled (tried for 5 second(s) with 100 milliseconds interval)</pre>
+                        <pre>tasks.BuscarProducto.performAs(BuscarProducto.java :30)<br />stepsdefinitions.PruebaBanistmoSteps.estoSeDeConEsteDato(PruebaBanistmoSteps.java :35)<br />cucumber.runner.Runner.runPickle(Runner.java :80)<br /></pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                <div class="panel-body">
+                    <a href="pagesource7779608606303964264.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
-                <img src="8ac73209bc10da64337c8f0dfc4a6b85ef0dfe091414513bcdd2f52c8240f718.png" title=" Dado algo" width="929"/>
-                <img src="8ac73209bc10da64337c8f0dfc4a6b85ef0dfe091414513bcdd2f52c8240f718.png" title=" Banistmo opens the Home page" width="929"/>
-                <img src="8ac73209bc10da64337c8f0dfc4a6b85ef0dfe091414513bcdd2f52c8240f718.png" title=" Dado algo (completed)" width="929"/>
-                <img src="38f86b41a98cb8738394b482b74c2668539bf6b50449ff3ef9192d70574d9d54.png" title=" Cuando esto se de con este dato1, dato2" width="929"/>
-                <img src="38f86b41a98cb8738394b482b74c2668539bf6b50449ff3ef9192d70574d9d54.png" title=" Banistmo buscar producto" width="929"/>
-                <img src="38f86b41a98cb8738394b482b74c2668539bf6b50449ff3ef9192d70574d9d54.png" title=" Banistmo enters 'dato1' into Input donde se realiza la busqueda" width="929"/>
-                <img src="a912bf2684c6ea72172841f47ab34818183bc9709235db7b84ade9442d3c28d5.png" title=" Banistmo enters 'dato1' into Input donde se realiza la busqueda (completed)" width="929"/>
-                <img src="a912bf2684c6ea72172841f47ab34818183bc9709235db7b84ade9442d3c28d5.png" title=" Banistmo types 'ENTER' in Button donde se realiza la busqueda" width="929"/>
-                <img src="6813cf18b53b56c3bbfad0a70cea7a6499a21ca0fb17cb5c7d71d0dc6f926f78.png" title=" Banistmo types 'ENTER' in Button donde se realiza la busqueda (completed)" width="929"/>
-                <img src="6813cf18b53b56c3bbfad0a70cea7a6499a21ca0fb17cb5c7d71d0dc6f926f78.png" title=" Banistmo buscar producto (completed)" width="929"/>
-                <img src="6813cf18b53b56c3bbfad0a70cea7a6499a21ca0fb17cb5c7d71d0dc6f926f78.png" title=" Cuando esto se de con este dato1, dato2 (completed)" width="929"/>
-                <img src="6813cf18b53b56c3bbfad0a70cea7a6499a21ca0fb17cb5c7d71d0dc6f926f78.png" title=" Entonces algo mas: <span class='success-color'>SUCCESS</span>" width="929"/>
+                <img src="a512d34a93df50eabc24913800879b4ba7b34b0f1bff6dee3a307a542d9eb9e7.png" title=" Dado algo" width="929"/>
+                <img src="a512d34a93df50eabc24913800879b4ba7b34b0f1bff6dee3a307a542d9eb9e7.png" title=" Banistmo opens the Home page" width="929"/>
+                <img src="a512d34a93df50eabc24913800879b4ba7b34b0f1bff6dee3a307a542d9eb9e7.png" title=" Dado algo (completed)" width="929"/>
+                <img src="a512d34a93df50eabc24913800879b4ba7b34b0f1bff6dee3a307a542d9eb9e7.png" title=" Cuando esto se de con este dato1, dato2" width="929"/>
+                <img src="a512d34a93df50eabc24913800879b4ba7b34b0f1bff6dee3a307a542d9eb9e7.png" title=" Banistmo buscar producto" width="929"/>
+                <img src="2bd06c26a92413b94204e27a23fb113817f7af6806020f63f1a7230f255fd1e2.png" title=" Banistmo clicks on Input donde se realiza la busqueda" width="929"/>
+                <img src="2bd06c26a92413b94204e27a23fb113817f7af6806020f63f1a7230f255fd1e2.png" title=" Banistmo clicks on Input donde se realiza la busqueda" width="929"/>
+                <img src="4f46456db9246444f03a88a9bcd00d706a884ec4cec05c1c3ac79940a6b16246.png" title=" Banistmo clicks on Input donde se realiza la busqueda (completed): <span class='failing-color'>FAILURE</span>" width="929"/>
             </div>
         </div>
 
