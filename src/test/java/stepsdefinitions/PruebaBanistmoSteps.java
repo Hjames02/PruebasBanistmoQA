@@ -13,6 +13,11 @@ import userinterfaces.HomePage;
 
 import java.util.List;
 
+import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
+import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isPresent;
+import static net.serenitybdd.screenplay.questions.WebElementQuestion.the;
+import static userinterfaces.DetallePage.LABEL_RESPUESTA;
+
 public class PruebaBanistmoSteps {
 
     @Managed(driver = "chrome")
@@ -41,6 +46,7 @@ public class PruebaBanistmoSteps {
     public void algoMas() {
         // Write code here that turns the phrase above into concrete actions
         //throw new PendingException();
+        actor.should(seeThat(the(LABEL_RESPUESTA), isPresent()));
     }
 
     @Cuando("^esto se de lista$")

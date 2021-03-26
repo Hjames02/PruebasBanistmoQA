@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Realizar pruebas" skipped="0" tests="1" time="20.56" timestamp="2020-08-06 11:26:49"><testcase name="Agregar algo"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
-tasks.BuscarProducto.performAs(BuscarProducto.java:30)&#13;
-stepsdefinitions.PruebaBanistmoSteps.estoSeDeConEsteDato(PruebaBanistmoSteps.java:35)&#13;
-cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Realizar pruebas" skipped="0" tests="1" time="31.56" timestamp="2021-03-26 11:56:53"><testcase name="Agregar algo"/></testsuite>

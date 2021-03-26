@@ -1,0 +1,2280 @@
+<html lang="es" class=" cssanimations"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google" content="notranslate">
+<link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=23&amp;themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1595465732000&amp;entry=wp_one_ui_303__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_303__0.0%3Ahead_css&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_social_rendering_85__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=6&amp;themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1595465734000&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=OPT-5GNTPJC&amp;t=gtm35&amp;cid=481789654.1616773279&amp;aip=true"></script><script src="https://connect.facebook.net/signals/config/492215554639397?v=2.9.33&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/1057072597705880?v=2.9.33&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_8252I1C0M8BA80AV831QR91CL6"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_8252I1C0M8BA80AV831QR91CL6","Z6_8252I1C0M8BA80AV831QR91CL6","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_8252I1C0M8BA80AV831QR91CL6'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1595465734000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_social_rendering_85__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512156768000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;deferred=true"><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<link id="nGpGrjNYmu4" rel="alternate" href="https://www.grupobancolombia.com/wps/portal/negocios/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLYxMjTwNnQ18LZwcLQwcwyyMDQODLA2dfcz0w8EKDHAARwP9KGL041EQhd_4cP0oQkoKckMjDNIVFQHaXQVv/"><script type="text/javascript">(function() {
+	var element = document.getElementById("nGpGrjNYmu4");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><style id="layout-wstate-styles"></style><base href="https://www.grupobancolombia.com/wps/portal/negocios/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLYxMjTwNnQ18LZwcLQwcwyyMDQODLA2dfcz0w8EKDHAARwP9KGL041EQhd_4cP0oQkoKckMjDNIVFQHaXQVv/">
+<title>Negocios Bancolombia</title>
+
+
+<meta content="noticias,herramientas,empresa,pymes,beneficios,eventos,empresario,actualidad" name="keywords"><meta content="Conoce toda la información actualizada para potenciar tu negocio&nbsp;con temás de interés y soluciones para tu empresa." name="description">
+	
+	<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/negocios">
+		
+	<link rel="bookmark" title="Negocios" href="/wps/portal/negocios" hreflang="es">
+		
+                <link rel="canonical" href="https://www.grupobancolombia.com/wps/portal/negocios">
+            <!-- <link -->
+<!-- 	rel="shortcut icon" type="image/x-icon" /> --><!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/le-mtagconfig.js"></script>
+<!-- END LivePerson Monitor. -->
+
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/bootstrap.min.css"/> -->
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/component.css"/> -->
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/main-menu.css" /> -->
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/menu-top.css" /> -->
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/breadcrumbs.css" /> -->
+  <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700,800" rel="stylesheet">
+  
+
+  <!-- Styles Generales -->
+  <link rel="stylesheet" href="/wps/wcm/connect/12635029-4fd6-4e31-8385-1334e5b105a0/bancolombia.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=12635029-4fd6-4e31-8385-1334e5b105a0">
+  <link rel="stylesheet" href="/wps/wcm/connect/e9bc9573-0c71-4904-bb7b-050e83cd7845/swiper.min.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=e9bc9573-0c71-4904-bb7b-050e83cd7845">
+  <link rel="stylesheet" href="/wps/wcm/connect/0c214090-f992-4ca4-bc99-ffe672bd3277/vars.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=0c214090-f992-4ca4-bc99-ffe672bd3277">
+  <link rel="stylesheet" href="/wps/wcm/connect/4abb1197-5b7f-4d0d-a31f-50539da72c8f/main-menu.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=4abb1197-5b7f-4d0d-a31f-50539da72c8f">
+  <link rel="stylesheet" href="/wps/wcm/connect/6e9cb08a-951d-46ca-90e2-c3f602e535b9/component.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=6e9cb08a-951d-46ca-90e2-c3f602e535b9">
+  <link rel="stylesheet" href="/wps/wcm/connect/aa9dd27e-a3e1-4631-b940-d535905f5f61/menu-top.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=aa9dd27e-a3e1-4631-b940-d535905f5f61">
+  <link rel="stylesheet" href="/wps/wcm/connect/c1924643-51d9-418c-bf41-3046eec71ecf/breadcrumbs.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=c1924643-51d9-418c-bf41-3046eec71ecf">
+  <link rel="stylesheet" href="/wps/wcm/connect/04a5eec5-d11f-4c4a-ab25-34eaf3753823/footer.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=04a5eec5-d11f-4c4a-ab25-34eaf3753823">
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/d6c08801-8110-4215-9dcc-9946e94d49f0/bootstrap.min.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=d6c08801-8110-4215-9dcc-9946e94d49f0"> -->
+
+  <!-- Styles Modulos -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/ca374c49-cdcc-4023-8a4d-4d33ab0b62af/slide.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=ca374c49-cdcc-4023-8a4d-4d33ab0b62af"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/bf40fc81-6bd6-4d17-8831-8bd5e463d41e/featured.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=bf40fc81-6bd6-4d17-8831-8bd5e463d41e"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/63bd696b-d31d-4cae-950d-73ad3d94a502/need.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=63bd696b-d31d-4cae-950d-73ad3d94a502"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/81aec938-e533-4f54-bfa6-086e1998356e/icon.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=81aec938-e533-4f54-bfa6-086e1998356e"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/44333ab1-e8b0-4805-a556-61fe8bb68ccb/extra.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=44333ab1-e8b0-4805-a556-61fe8bb68ccb"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/31068347-1132-499c-ac53-be77f3b41478/services.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=31068347-1132-499c-ac53-be77f3b41478"> -->
+  <link rel="stylesheet" href="/wps/wcm/connect/bd1e8927-180e-41d8-894e-764bade66e1f/modules.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=bd1e8927-180e-41d8-894e-764bade66e1f">
+
+  
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/bancolombia.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/style.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/modules/navegacion-min.css" type="text/css"> -->
+
+
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/menu.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=29373698"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/jquery-1.11.2.ui.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular.js"></script>
+<script type="text/javascript" src="/wps/wcm/connect/e6a8286f-5782-420b-adf6-864eeddb1b9e/menu-active.js?MOD=AJPERES"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/ui-bootstrap-0.12.0.tpls.min.js"></script>
+
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/arimo.css" type="text/css" async > -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/modules/modules.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/animate.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/menu-negocios-especializados.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/datepicker/css/datepicker-min.css" type="text/css" async > -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/datepicker/css/theme-min.css" type="text/css" async > -->
+
+  
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/navegacion.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/mobile-detect.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/slide-min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/modules.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/jquery.basictable.min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/wow.min.js" defer=""></script>
+
+
+<script type="text/javascript">
+function SVPersonas(){
+    localStorage.setItem("SVPersonas", "Si");
+}
+</script>
+
+<script type="text/javascript">
+                  function Onclick(){
+                         localStorage.setItem("Onclick", 'UserOnclick');
+                  } 
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+<!-- Anti-flicker snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-W95WRK':true});</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-W95WRK');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W95WRK');</script>
+<!-- End Google Tag Manager -->
+
+<script async="" src="https://static.hotjar.com/c/hotjar-373418.js?sv=6"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/971830635/?random=1616773290884&amp;cv=9&amp;fst=1616773290884&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470%2C2505059650&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg3h0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Fnegocios&amp;ref=https%3A%2F%2Fwww.grupobancolombia.com%2F&amp;tiba=Negocios%20Bancolombia&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script async="" src="https://script.hotjar.com/modules.35981999a656a5a28309.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script charset="UTF-8" id="_lpTagScriptId_0" src="https://lptag.liveperson.net/lptag/api/account/29373698/configuration/applications/taglets/.jsonp?v=2.0&amp;df=0&amp;b=1"></script></head>
+<body onload="loadMenu()" class="toolbar-closed" style="">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- site toolbar -->
+	<!-- site toolbar -->
+	
+	<a href="#maincontent" class="sr-only sr-only-focusable">Skip to main content</a>
+	<div id="barra-navegacion">
+<!-- 		<div class="sidebar visible-xs fade out"> -->
+<!-- 			 renders the collapsed menu --> 
+<!-- 			<a rel="dynamic-content" -->
+<!-- 				href="dyn-cs:id:bancolombiapymes_collapsedMenu"></a> -->
+<!-- 		</div> -->
+		<div class="top-nav">
+			<!-- renders the level 1 navigation -->
+			
+
+<style>.container-fluid{position:relative}.navegacion .top-nav .top-menu>.container-fluid>.row{padding:0 15px 40px 15px;width:100%}</style>
+<!-- NAVEGACION NIVEL 1 -->
+<div class="top-nav">
+	<div class="top-ribbon hidden-xs">
+		<div class="barra"></div>
+		<div id="menu-1nivel" class="container">
+			<div class="row">
+				<ul>
+					<li id="linkPersonas"><span class="flecha"></span> <a href="//www.grupobancolombia.com/wps/portal/personas/" onclick="changeActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe'); changeDesActive('linkPymes');">Personas </a></li>
+					<li id="linkPymes" class="active"><span class="flecha"></span> <a href="//www.grupobancolombia.com/wps/portal/negocios-pymes/" onclick="changeDesActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe'); changeActive('linkPymes');">Negocios </a></li>
+					<li id="linkEmpresas"><span class="flecha"></span><a href="//www.grupobancolombia.com/wps/portal/empresas/" onclick="changeActive('linkEmpresas'); changeDesActive('linkPersonas'); changeDesActive('linkAcercaDe'); changeDesActive('linkPymes');">Empresas </a></li>
+					<li id="linkAcercaDe"><span class="flecha"></span><a href="//www.grupobancolombia.com/wps/portal/acerca-de/" onclick="changeActive('linkAcercaDe'); changeDesActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkPymes');"><span>Acerca de Nosotros</span></a></li>
+					<li id="menu-filiales"><a style="cursor: pointer;">Negocios Especializados</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="top-menu hidden-xs">
+		<div class="container-fluid">
+			<div class="row" style="position: absolute; margin-top: -1000px;">
+				<div class="col-md-6">
+					<h2>Negocios en Colombia</h2>
+					<ul class="check-list">
+						<li>
+							<a href="//bancainversion.grupobancolombia.com">Banca de Inversión Bancolombia</a>
+						</li>
+						<li>
+							<a href="//fiduciaria.grupobancolombia.com">Fiduciaria Bancolombia</a>
+						</li>
+						<li>
+							<a href="//leasing.grupobancolombia.com">Leasing Bancolombia</a>
+						</li>
+						<li>
+							<a href="//renting.grupobancolombia.com">Renting Colombia</a>
+						</li>
+						<li>
+							<a href="//valores.grupobancolombia.com">Valores Bancolombia</a>
+						</li>
+						<li>
+							<a href="//factoring.grupobancolombia.com">Factoring Bancolombia</a>
+						</li>
+						<li>
+							<a href="//assetmanagement.grupobancolombia.com">Asset Management</a>
+						</li>
+						<li>
+							<a href="//comerciointernacional.grupobancolombia.com">Comercio Internacional</a>
+						</li>
+						<li>
+							<a href="//sufi.grupobancolombia.com">Sufi</a>
+						</li>
+						<li>
+							<a href="http://www.tuya.com.co">Tuya</a>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-6">
+					<h2>Entidades en el exterior</h2>
+					<ul class="check-list">
+						<li>
+							<a href="//valoresbanistmo.grupobancolombia.com">Valores Banistmo</a>
+						</li>						
+						<li>
+							<a href="//sucursalpanama.grupobancolombia.com">Sucursal Panamá</a>
+						</li>
+						<li>
+							<a href="//panama.grupobancolombia.com">Bancolombia Panamá</a>
+						</li>
+						<li>
+							<a href="//cayman.grupobancolombia.com">Bancolombia Cayman</a>
+						</li>
+						<li>
+							<a href="//puertorico.grupobancolombia.com">Bancolombia Puerto Rico</a>
+						</li>
+						<li>
+							<a href="https://www.banistmo.com/wps/portal/banistmo/personas">Banistmo</a>
+						</li>
+						<li>
+							<a href="https://www.bancoagricola.com">Banco Agrícola</a>
+						</li>
+						<li>
+							<a href="http://www.bam.com.gt">BAM (Banco Agromercantil de Guatemala)</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+		<div>
+			<!-- renders the level 2 navigation -->
+			<!-- NAVEGACION NIVEL 2	PERSONAS -->
+
+<div class="navbar" id="personasNivel2" style="display: none">
+	<div id="main-menu" role="navigation" class="navbar-default">
+<!-- 		<div class="navbar-header"> -->
+<!-- 			<a id="responsive-menu-personas" style="cursor: pointer;" class="navbar-toggle collapsed"> -->
+<!-- 				<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span> -->
+<!-- 			</a> -->
+<!-- 			<a href="//www.grupobancolombia.com/wps/portal/personas/" class="navbar-brand visible-xs visible-md hidden-lg hidden-sm"> <img id="logoFilial" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAABGCAYAAABc8A97AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDphYmIyMzYxZi01NjhmLTRkMGQtYWVkZS00ZTU2NWEwZTcyNWIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODJDQTE4MjBCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODJDQTE4MUZCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpkNWVkMjc0ZS1iMmFkLTRlZWQtOTZlNy02MTRkYzMxZGIyMzciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6YWJiMjM2MWYtNTY4Zi00ZDBkLWFlZGUtNGU1NjVhMGU3MjVi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" width="170" height="40" alt="" title="" class="BancolombiaLogo"> -->
+<!-- 			</a> -->
+<!-- 		</div> -->
+		<div class="row nopadding">	
+			<div class="container">		
+					<div class="col-md-5">
+				        <ul class="menuPersonas">
+				          <li class="itemNone"><a href="//www.grupobancolombia.com/wps/portal/negocios-pymes/"><img src="/wps/wcm/connect/ee7dd34b-761b-4c30-aa99-f34f4d6f9d1d/logo-bancolombia.png?MOD=AJPERES" alt="Negocios" title="Negocios"></a></li>
+<!-- 				          <li><h3>Negocios Pyme</h3></li> -->
+				        </ul>
+			      	</div>
+			      	<div class="searchHeaderRwd visible-xs visible-sm hidden-md hidden-lg">
+				        <img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QN1aHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzEzMiA3OS4xNTkyODQsIDIwMTYvMDQvMTktMTM6MTM6NDAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6RjY3REVBNDc5ODE4RTMxMThEQjhGMkEzRjNCMDZDQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTk1MjFGN0I2QTA1MTFFNjlFMjJBOUREQzdFNThBQzMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTk1MjFGN0E2QTA1MTFFNjlFMjJBOUREQzdFNThBQzMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxNEE5NzE4NjE1M0YxMUU2ODE2NkJDMjc0MzFDOTIyMSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxNEE5NzE4NzE1M0YxMUU2ODE2NkJDMjc0MzFDOTIyMSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pv/uAA5BZG9iZQBkwAAAAAH/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAgICAgICAgICAgMDAwMDAwMDAwMBAQEBAQEBAgEBAgICAQICAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA//AABEIABoAHAMBEQACEQEDEQH/xAByAAEAAgMBAAAAAAAAAAAAAAAHBQYAAgkKAQEAAAAAAAAAAAAAAAAAAAAAEAAABgECAwUECQUAAAAAAAABAgMEBQYREgcAIRQxIjITFUFRYSOBkaFiMxY2FwhDRoa3SBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9rsRGyG+riUn5iXlo/alCXkIar1aBk3kKW5JRDlSOkbHZpeMWQk14Z9JMlE2TRJQifkJgKmdQcBYXX8d9q0EjK1yEeUmZRATNLDTJqWhJ9q4AMEXK5QenRfnEB0+W6IuQ4HwIBqHISe2dnsXqll26vTlGQtdPSj3zSfbI9Klb6hNC9ThZ3oy4IylSKxqzZ8imHllcI6iCIH5AyezTk2c4zy1asavdjw8ACfx6eJRlMDbV8cra07YvHlYnI85QSVUapP3q0FNop5ydjPxB010lf6ggf3cA8mHGk3sHPIeWB8WoTZ7pe79IiHZwAHSX6F33lu93hlUndarlUhdtm0ogYp2szPt5h/YrCdoqUTFO3hesbIDgR+cZTnwD73MZ+Pwzn8PV9X2cAb3Ha+uXN4yml1Zqu2eOQO1j7dVZVWDsjdooYihmR3rUqzd7HqGL3knKayYc8AGo2QqbjZySlEgZW3dzcqzwpgMCkIV1X6y3kW+nB2Uk/p9bhpl82FER1EK4IZfnqEQzwEM/o8xtA6WtW0USo9qqhklrhtQzwVN2kigRFey0MpwFNtaUGqepVoZQycoQoE7q5U8gh/utQ/yL+43rzf8teTjqdCnUdfnR6T6VjqvXuo+R0WOp8/5WNfLgE7gM4DU3YPj8BvD2+zs+/7uA5x/9V/2z+vv8L/Tf+1uA//Z" class="center-block" alt="Buscar">
+				    </div>
+			      <div class="buttonHeader col-md-6 hidden-xs hidden-sm visible-md visible-lg">
+				  	<ul class="buttonHeader hidden-xs hidden-sm visible-md visible-lg">
+				        <div class="btnSecundario">
+				          <a href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/">
+				            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAYAAABbjRdIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5BJREFUeNqsVl1IU2EYfuemaemaA7MLhdkkkCSPRN10sUnDKchygdRVzquoLqZZRBfhLAwkxvSmops5g8guarsoaBRuRSoUciylAqeGFf7hX7Ola633+zb1nLMfz9IXvo9zvr/ne96/75VAKqKzqrAnTcsZZWl72Tyx1XaJSBAT9mZsTJJVBMyBrQOBF1MH01kJA3uUjVghQE0I2CWcSEsCZMG+N0UgIgp6QZ3VLo6ZzmrDvhG2L13IsGH9RxoHqJbqfWeEgQN6CYy5PbHMdFaigvGoKjb1kr0LtIcLgSnOgzJ1Hiz6V+nYkG+Gt12Daxpuv4CJ6WUhaDkyZGWCwUYhkO08+ogkDN6hSehyD+NBSwlpqPL3gvnUEWi66xFOtWAzCsHMMQfsl4PR4hSlM3IRBpkT1oQ9R2pJjMoEtlLE+HFUZeubGfU+2lS586ApCYFC+hkYVUZkcQDjWzoCT683Q8VVt/CoWhnPmHHkK+rffrkawO8BrdqHt3lGv3kyxf/VFpahSuVC22m4YGXcGVPlIbCdRapr9wGWUI17MFb9In1wwQEm/R2wdPfz/EwmCMZNxyBAU1XinTxbC3/n8iA0kwGyY+eAHZ2NWSJLaOx5ZeJEmKGihwfZIAQ/ZsOfsUwI9r+H8PIXOr370giwPllSMF7W9nySAlOCh65Fh7MQOrceAj3fYe31PD08kaw+doH5SltMCHDBhrgTrj4fNJ6wUTB27jg4Xq1APdqxoF23pUZD335QjxUqiwtGr6HICkR+MIiLLsqJMdCr3mwsar+BMZ4+Bv6OAghNZ/ATrTwHMusMMF1jgNYH/UIwLy9dKQ03x33XbtEs7xwppbHU6taDx6eOeOjRd2A//Yh+/3qYTxs1ob4CfldXwfOcQuh8Moj2mo337BTxwMZ7lRYEaOFxX1CCIjOAoJXQUummzMMrUvh5rwbSNXUwcLAcugcmwdk3KswaXGnF3GjhgYVZmoS3fL9Y/wVwfKgD59vReEk3Livyess4QCYxQIRpeRtR66DYCDSulwncl7pezM4m18lU3rMGBPLwygJkxQgqprhCHMU5XCq2DjEK65C0jSdAzDV7zogrBSKPpVN0uopnK5vBRb3R6ysGC3qnoHYk6upMVj9KUvFCrpokDOSmWpCkbcRBRM9ixfM/1Y+E4/rkiSElnCmBwYkNvAQIWU1sC4wDqo3WIt6oLYjK2J2o6/4JMADacztHPjOuggAAAABJRU5ErkJggg==">
+				            <span>Solicitud de documentos</span>
+				          </a>
+				        </div>
+			        	<div class="btnPrincipal" id="transacciones"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkY4NUIzMkFFMjEyQTExRTZCOUUwRTBFQzUyQzRGNkZFIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkY4NUIzMkFGMjEyQTExRTZCOUUwRTBFQzUyQzRGNkZFIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6Rjg1QjMyQUMyMTJBMTFFNkI5RTBFMEVDNTJDNEY2RkUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6Rjg1QjMyQUQyMTJBMTFFNkI5RTBFMEVDNTJDNEY2RkUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7giDNtAAAAvElEQVR42mJgcOnlYgABl14mhs4n/K//4wAfnvyPc+nlZUABLr3cQCkgfYn91n8C4Mml/8hamYBYhNG1j5GhSOaPKgMBIC3DMNulVxLGZQHiJ0DMCMT/YIK3t/cxqPUx8ACZ34FYe/aCoksp0hC51D3Fz5E1gzQx/fcU/Idmzx8g/g9VAwdAmyVSGRheQSzc9o7/P8ng3RegIUyMoEAi6Fds4OllcICRDUY1Dx3NB58yGJGj8fal3Y4AAQYA8GWhcd3K3LcAAAAASUVORK5CYII=" alt="Sucursal virtual">Transacciones</div>
+			        	<div class="searchHeader hidden-xs hidden-sm visible-md visible-lg">
+				          <img src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/images/search-pymes.png" class="center-block" alt="Buscar">
+				        </div>				        
+					</ul>
+					
+					
+					<div id="menu-transacciones" class="menu-transacciones">
+			            <div class="cerrar">
+			              <a style="cursor: pointer;">Cerrar <span>x</span></a>
+			            </div>
+			            <div class="row">
+			              <ul>
+							<li><a href="https://sucursalvirtualpyme.bancolombia.com" target="_blank" class="ng-binding">Sucursal Virtual Pymes</a></li>
+							<li><a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" target="_blank" class="ng-binding" onclick="SVPersonas()">Sucursal Virtual Personas  </a></li>
+			                <li><a href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia" target="_blank" class="ng-binding" onclick="SVEmpresas()">Sucursal Virtual Empresas</a></li>
+							<li><a href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/" target="_self" class="ng-binding">Solicitud de documentos</a></li>
+			              </ul>
+			            </div>
+			            <div class="row">
+			              <div class="col-xs-12 conocer"><a href="/wps/portal/empresas/transacciones/">Ver más</a></div>
+			            </div>
+			         </div>
+					
+				</div>
+				<div class="headermenuMobile">
+				    <button class="action action--open" aria-label="Open Menu"><span class="icon icon--menu"></span></button>
+				    <div class="logoMob"><a href="/wps/portal/negocios-pymes/">
+				    <img src="/wps/wcm/connect/ee7dd34b-761b-4c30-aa99-f34f4d6f9d1d/logo-bancolombia.png?MOD=AJPERES" alt="Negocios" title="Negocios"></a>
+				    </div>
+				</div>
+			</div>			  
+		</div>
+	</div>
+	
+	<section id="menu-top" class="visible-lg visible-md hidden-sm hidden-xs">
+	    <div class="container">
+		      <div class="row nopadding">
+		        <div class="col-md-12">
+		          	<ul><li><a href="/wps/portal/negocios-pymes/">Inicio</a></li>
+			            <li><a href="/wps/portal/negocios-pymes/actualizate/">Actualízate</a></li>
+			            <li><a href="/wps/portal/negocios-pymes/productos-financieros/">Productos financieros</a></li>
+			            <li><a href="/wps/portal/negocios-pymes/herramientas/">Herramientas</a></li>
+			            <li><a href="/wps/portal/negocios-pymes/beneficios/">Beneficios</a></li>
+			            <li style="display: none;"><a href="/wps/portal/negocios-pymes/eventos/">Eventos</a></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Formación<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/eventos/">Eventos</a></li><li><a href="/wps/portal/negocios-pymes/formacion/">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Sectores<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria/">Agroindustria</a></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li><a href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>
+		          	</ul>
+		      	</div>
+	  		</div>
+		</div>
+	</section>
+
+<div class="searchRwd">
+  <div class="container">
+    <div class="row">
+      <form action="/wps/portal/negocios-pymes/buscador">
+        <div class="col-sm-8 col-xs-8">
+          <input type="search" placeholder="Busca lo que tú necesitas" name="termino" id="terminoBusqueda2" class="ui-autocomplete-input" autocomplete="off">
+        </div>
+        <div class="col-sm-4 col-xs-4">
+          <div class="row">
+            <input type="submit" value="Buscar" class="btnPrincipal">
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+	<div class="menuMobile">
+	  <!-- Blueprint header -->
+	
+	
+	  <nav id="ml-menu" class="menu"><nav class="menu__breadcrumbs"><a>Inicio</a></nav>
+		<button class="action action--close" aria-label="Close Menu"><span class="icon icon--cross"></span></button>
+	    <div class="menu__wrap">
+	      <!-- presonas-->
+	      <ul data-menu="main" class="menu__level menu__level--current"><li class="menu__item" style="display: none;"><a class="menu__link" href="/wps/portal/negocios-pymes/">Inicio</a></li>
+	        <li class="menu__item"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/actualizate/">Actualízate</a></li>
+	        <li class="menu__item"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/productos-financieros/">Productos financieros</a></li>
+	        <li class="menu__item"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/herramientas/">Herramientas</a></li>
+	        <li class="menu__item"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/beneficios/">Beneficios</a>
+	        </li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li><li class="menu__item" style="display: none;"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/eventos/">Eventos</a></li>
+	      
+			<li class="menu__item">
+								<a class="menu__link" href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/">
+								<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAYAAABbjRdIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5BJREFUeNqsVl1IU2EYfuemaemaA7MLhdkkkCSPRN10sUnDKchygdRVzquoLqZZRBfhLAwkxvSmops5g8guarsoaBRuRSoUciylAqeGFf7hX7Ola633+zb1nLMfz9IXvo9zvr/ne96/75VAKqKzqrAnTcsZZWl72Tyx1XaJSBAT9mZsTJJVBMyBrQOBF1MH01kJA3uUjVghQE0I2CWcSEsCZMG+N0UgIgp6QZ3VLo6ZzmrDvhG2L13IsGH9RxoHqJbqfWeEgQN6CYy5PbHMdFaigvGoKjb1kr0LtIcLgSnOgzJ1Hiz6V+nYkG+Gt12Daxpuv4CJ6WUhaDkyZGWCwUYhkO08+ogkDN6hSehyD+NBSwlpqPL3gvnUEWi66xFOtWAzCsHMMQfsl4PR4hSlM3IRBpkT1oQ9R2pJjMoEtlLE+HFUZeubGfU+2lS586ApCYFC+hkYVUZkcQDjWzoCT683Q8VVt/CoWhnPmHHkK+rffrkawO8BrdqHt3lGv3kyxf/VFpahSuVC22m4YGXcGVPlIbCdRapr9wGWUI17MFb9In1wwQEm/R2wdPfz/EwmCMZNxyBAU1XinTxbC3/n8iA0kwGyY+eAHZ2NWSJLaOx5ZeJEmKGihwfZIAQ/ZsOfsUwI9r+H8PIXOr370giwPllSMF7W9nySAlOCh65Fh7MQOrceAj3fYe31PD08kaw+doH5SltMCHDBhrgTrj4fNJ6wUTB27jg4Xq1APdqxoF23pUZD335QjxUqiwtGr6HICkR+MIiLLsqJMdCr3mwsar+BMZ4+Bv6OAghNZ/ATrTwHMusMMF1jgNYH/UIwLy9dKQ03x33XbtEs7xwppbHU6taDx6eOeOjRd2A//Yh+/3qYTxs1ob4CfldXwfOcQuh8Moj2mo337BTxwMZ7lRYEaOFxX1CCIjOAoJXQUummzMMrUvh5rwbSNXUwcLAcugcmwdk3KswaXGnF3GjhgYVZmoS3fL9Y/wVwfKgD59vReEk3Livyess4QCYxQIRpeRtR66DYCDSulwncl7pezM4m18lU3rMGBPLwygJkxQgqprhCHMU5XCq2DjEK65C0jSdAzDV7zogrBSKPpVN0uopnK5vBRb3R6ysGC3qnoHYk6upMVj9KUvFCrpokDOSmWpCkbcRBRM9ixfM/1Y+E4/rkiSElnCmBwYkNvAQIWU1sC4wDqo3WIt6oLYjK2J2o6/4JMADacztHPjOuggAAAABJRU5ErkJggg==">
+								<span>Solicitud de documentos</span>
+								</a>								
+			</li>	
+							
+			<li class="menu__item">					
+								<span class="menu__link expandible">Transacciones</span>
+																	
+								<ul style="display: none;">	
+												<li class="menu__item" style="display: none;"><a class="menu__link" href="https://sucursalvirtualpyme.bancolombia.com" target="_blank">Sucursal Virtual Pymes</a></li>
+												<li class="menu__item"><a class="menu__link" href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" target="_blank" onclick="SVPersonas()">Sucursal Virtual Personas  </a></li>
+												<li class="menu__item"><a class="menu__link" href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia" target="_blank" onclick="SVEmpresas()">Sucursal Virtual Empresas</a></li>
+												<li class="menu__item"><a class="menu__link" href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/" target="_self">Solicitud de documentos</a></li>
+												<li class="menu__item"><a class="menu__link" style="cursor: pointer;" onclick="MM_openBrWindow('https://facturanet.todo1.com/default_finalBancolombia.asp?pais=CO&amp;ingreso=si','VentanaUnicaFCN','status=yes,scrollbars=yes,resizable=yes,width=1024,height=768')">&nbsp;Facturanet</a>
+												</li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>
+												<li class="menu__item" style="display: none;"><a class="menu__link" href="/wps/portal/empresas/transacciones/">Ver más</a><div></div></li>
+								</ul>								
+																							
+			</li>	
+		  
+		  <li class="menu__item" style="display: none;"><a class="menu__link" href="/wps/portal/negocios-pymes/especiales/wobi/">Wobi</a></li><div class="visible-xs"><div class="row"><div class="title-networks">Síguenos en nuestras redes sociales</div><ul class="networks" dir="ltr" style="margin: 40px auto 0"><li class="facebook" style="display: none;"><a href="https://www.facebook.com/bancolombia" title="Facebook" target="_blank">Facebook</a></li><li class="twitter"><a href="https://twitter.com/Bancolombia" title="Twitter" target="_blank">Twitter</a></li><li class="linkedin"><a href="https://www.linkedin.com/company/22690" title="Linkedin" target="_blank">Linkedin</a></li><li class="instagram"><a href="https://instagram.com/bancolombia/" title="Instagram" target="_blank">Instagram</a></li><li class="youtube" style="display: none;"><a href="https://www.youtube.com/channel/UCsvQ-hst7CZGaMtHcDe5geQ" title="YouTube" target="_blank">YouTube</a><div></div></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li></ul></div></div></ul>
+	
+	      <!-- Submenu 1 -->
+	      <ul data-menu="menu_necesidades" class="menu__level">
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Administra tu dinero</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Estudio</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Vacaciones</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Carro o moto</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Casa</a></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Compra lo que te gusta</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Empieza tu negocio</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Organiza tus crï¿½ditos</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Planes tu retiro</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Bancolombia y los niï¿½os</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Bancolombia y los jï¿½venes</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Bancolombia y la familia</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Colombianos en el exterior</a></li>
+	      </ul>
+	      <!-- Submenu productos y servicios -->
+	      <ul data-menu="menu_productos" class="menu__level">
+	        <li class="menu__item" style="display: none;"><a class="menu__link" data-submenu="menu_cuentas" href="#">Cuentas</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Tarjetas dÃ©bito</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Tarjetas crÃ©dito</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">CrÃ©dito</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Leasing</a></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Seguros</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">inversiones</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Giros</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Servicio de pago</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Compra y venta de dolares</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Venta de usados</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Renta de VehÃ­culos</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Canales</a></li>
+	      </ul>
+	      <!-- Submenu cuentas -->
+	      <ul data-menu="menu_cuentas" class="menu__level">
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Cuenta de ahorro</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Cuenta corriente</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Cuenta en el exterior</a></li>
+	      </ul>
+	    </div>
+	  </nav>
+	</div>	
+</div></div>
+<!-- 		<div class="row-fluid submenu hidden-xs" > -->
+			<!-- renders the level 3 navigation -->
+<!-- 			<a rel="dynamic-content" -->
+<!-- 				href="dyn-cs:id:bancolombiapymes_navegacionNivel3"></a> -->
+<!-- 		</div> -->
+		<div class="breadcrumbs">
+			<!-- renders the breadcrumb -->
+			
+
+		<div class="row-fluid">
+			<div class="container">
+				<div class="row">
+					<ol itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList" class="breadcrumb col-xs-12 col-sm-10">
+						
+						
+							
+							<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+											<a itemprop="item" href="/wps/portal/negocios"> 
+												<span itemprop="name" style="display: none;">Negocios</span>
+												<meta itemprop="position" content="1">
+											</a>									
+									</li>
+												
+					</ol>					
+				</div>
+			</div>
+		</div>		
+	</div>
+	</div>
+	<div id="main-content">
+		<!-- MAIN CONTENT GOES HERE! -->
+		
+
+ 
+
+
+
+
+
+		
+
+ 
+
+
+
+
+	
+		<div class="component-control id-Z7_8252I1C0M8BA80AV831QR91CL7 active"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <!-- Referencia de componente -->
+<link rel="stylesheet" href="/wps/wcm/connect/b506d8c8-79f8-410f-8302-2c52b3eccde0/swiper.min.css?MOD=AJPERES" type="text/css">
+<style>
+    @media (max-width: 768px) {
+        #slider .slide .info-slide h5{
+            font-size: 31px!important;
+        }
+        .big{
+            line-height: 30px!important;
+        }
+        .centro-banner{
+            top: -150px !important;
+        }
+        #slider .slide .info-slide .big{
+            font-size: 20px !important
+        }
+        #slider .slide .info-slide{
+            width: 100% !important
+         }
+    }
+    .overlay:before {
+        content: '';
+        position: absolute;
+        background: rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+    
+    #slider .slide .info-slide a.btnPrincipal{
+        display: inline-block;
+        width: auto;
+    }
+    #slider .slide:nth-child(1) .info-slide p,#slider .slide:nth-child(1) .info-slide h5{
+        max-width: 700px;
+    }
+    #slider .slide:nth-child(4) .info-slide .big{
+        color:#ffffff !important;
+        font-size: 20px !important
+    }
+#slider .slide:nth-child(4) .info-slide{
+width:45% 
+}
+    </style>
+    <link rel="stylesheet" type="text/css" href="/wps/wcm/connect/003d8036-03a9-4278-80b6-73a3a41d917b/slide.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-003d8036-03a9-4278-80b6-73a3a41d917b-mWU71-C">
+    
+    <section id="slider">
+      <div class="swiper-container swiper-container-horizontal">
+        <div class="swiper-wrapper" style="transform: translate3d(-1903px, 0px, 0px); transition-duration: 0ms;"><div class="slide swiper-slide swiper-slide-prev" style="margin-top: 0px; background-color: rgb(0, 0, 0); background-image: url(&quot;/wps/wcm/connect/d545f38b-c94d-4947-a8b5-4f0173c701ed/2000x472+%282%29.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-d545f38b-c94d-4947-a8b5-4f0173c701ed-nxwQ9dK&quot;); width: 1903px;">
+  <div class="container centrar-banner">
+    <div class="row centro-banner">
+     <style type="text/css">
+    .Pyme1 {
+        font-size: 42px !important;
+        
+    }
+    .Pyme2 {
+        font-size: 22px !important;
+        font-weight: 40px !important;
+     
+    }
+
+
+ 
+
+        .Pyme1 {
+           position: relative !important;
+           bottom: 14px !important;
+           font-weight: 900 !important;
+           color: #151414 !important;
+           line-height: 34px !important;
+        }
+
+        .Pyme2 {
+            position: relative !important;
+            bottom: 15px !important;
+        }
+      
+    }
+</style>
+      <div class="col-md-6 col-sm-6 col-xs-12 info-slide">
+        <h5></h5>
+        <p><style type="text/css">.Pyme1 {
+        font-size: 42px !important;
+        font-weight: 700;
+    }
+
+  .Pyme2 {
+        font-size: 22px !important;
+        font-weight: unset !important;
+    }
+@media screen and (max-width: 690px){
+.Pyme1{
+font-size: 28px !important;
+}
+.Pyme2{
+font-size: 16px !important;
+}
+}
+</style>
+</p><p class="Pyme1" dir="ltr"><span style="color:#f4ca09  ;">Creemos en las pymes y pequeños negocios</span></p>
+
+<p class="Pyme2" dir="ltr" style="color: black !important; text-align: justify;"><strong><span style="color: white;">Por eso hemos creado más de 400.000 nuevos créditos por más de $13,5 billones disponibles.</span></strong></p>
+
+        <span class="big"></span><p></p>
+        <a href="https://www.grupobancolombia.com/wps/portal/negocios/credito-pymes?utm_source=sitio-negocios&amp;utm_medium=&amp;utm_term=&amp;utm_content=-&amp;utm_campaign=estacional--Golpe-Opinion-Pymes-clics" target="_blank" class="btnPrincipal home-negocios-content-BtnBannerHero-4">Conoce más</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="slide swiper-slide swiper-slide-active" style="margin-top: 0px; background-color: rgb(0, 0, 0); background-image: url(&quot;/wps/wcm/connect/1d52f920-ffb0-4423-a757-c0694781546f/Banner_DESKTOP.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-1d52f920-ffb0-4423-a757-c0694781546f-nwy2p9L&quot;); width: 1903px;">
+  <div class="container centrar-banner">
+    <div class="row centro-banner">
+     <style type="text/css">
+    .Pyme1 {
+        font-size: 42px !important;
+        
+    }
+    .Pyme2 {
+        font-size: 22px !important;
+        font-weight: 40px !important;
+     
+    }
+
+
+ 
+
+        .Pyme1 {
+           position: relative !important;
+           bottom: 14px !important;
+           font-weight: 900 !important;
+           color: #151414 !important;
+           line-height: 34px !important;
+        }
+
+        .Pyme2 {
+            position: relative !important;
+            bottom: 15px !important;
+        }
+      
+    }
+</style>
+      <div class="col-md-6 col-sm-6 col-xs-12 info-slide">
+        <h5></h5>
+        <p><style type="text/css">.Pyme1 {
+        font-size: 42px !important;
+        font-weight: 700;
+    }
+
+  .Pyme2 {
+        font-size: 22px !important;
+        font-weight: unset !important;
+    }
+@media screen and (max-width: 690px){
+.Pyme1{
+font-size: 28px !important;
+}
+.Pyme2{
+font-size: 16px !important;
+}
+}
+
+li {
+color: black;
+
+}
+</style>
+</p><p class="Pyme1" dir="ltr"><span style="color:#f4ca09;">Compra el SOAT por Internet</span></p>
+
+<ul dir="ltr">
+	<li>Recibe <strong>beneficios y descuentos</strong> en días especiales.</li>
+	<li>Ahorra tiempo, <strong>cómpralo 100% digital.</strong></li>
+	<li>Paga con cualquier <strong>Tarjeta Débito o Crédito.</strong></li>
+</ul>
+
+        <span class="big"></span><p></p>
+        <a href="https://www.grupobancolombia.com/personas/solicitud-de-productos/soat/escoger-seguro?utm_campaign=always-on-personas-seguros-soat_banner_negocios&amp;utm_source=website&amp;utm_medium=banner&amp;utm_content=soat_banner_negocios" target="_blank" class="btnPrincipal home-negocios-content-BtnBannerHero-4">Cotizar SOAT</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="slide swiper-slide swiper-slide-next" style="margin-top: 0px; background-color: rgb(0, 0, 0); background-image: url(&quot;/wps/wcm/connect/5c6f733a-af59-498e-a91f-f15a48c0cd7d/SITE_NEGOCIOS_200X472_2.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-5c6f733a-af59-498e-a91f-f15a48c0cd7d-nuRVsQJ&quot;); width: 1903px;">
+  <div class="container centrar-banner">
+    <div class="row centro-banner">
+     <style type="text/css">
+    .Pyme1 {
+        font-size: 42px !important;
+        
+    }
+    .Pyme2 {
+        font-size: 22px !important;
+        font-weight: 40px !important;
+     
+    }
+
+
+ 
+
+        .Pyme1 {
+           position: relative !important;
+           bottom: 14px !important;
+           font-weight: 900 !important;
+           color: #151414 !important;
+           line-height: 34px !important;
+        }
+
+        .Pyme2 {
+            position: relative !important;
+            bottom: 15px !important;
+        }
+      
+    }
+</style>
+      <div class="col-md-6 col-sm-6 col-xs-12 info-slide">
+        <h5></h5>
+        <p><style type="text/css">.Pyme1 {
+        font-size: 42px !important;
+        font-weight: 700;
+    }
+
+  .Pyme2 {
+        font-size: 22px !important;
+        font-weight: unset !important;
+    }
+@media screen and (max-width: 690px){
+.Pyme1{
+font-size: 28px !important;
+}
+.Pyme2{
+font-size: 16px !important;
+}
+}
+
+li {
+color: black;
+
+}
+</style>
+</p><p class="Pyme1" dir="ltr"><span style="color:#00448c ">Aquí estamos para que traspases los límites</span></p>
+
+<p class="Pyme2" dir="ltr"><span style="color: black;"><strong>Encuentra lo que necesitas para importar y exportar en nuestra Guía de Comercio Internacional.</strong></span></p>
+
+        <span class="big"></span><p></p>
+        <a href="https://www.grupobancolombia.com/wps/portal/negocios/comercio-internacional?_ga=2.91404826.1659266982.1615800547-463732681.1614012468" target="_blank" class="btnPrincipal home-negocios-content-BtnBannerHero-4">Conoce más</a>
+      </div>
+    </div>
+  </div>
+</div>
+     </div>
+    <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span></div>
+  </div>
+</section>
+<script src="/wps/wcm/connect/1cd55cb5-60b0-4caf-9df8-d522cac220de/swiper.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-1cd55cb5-60b0-4caf-9df8-d522cac220de-lULVISH"></script>
+
+<script src="/wps/wcm/connect/bce74803-6e97-4a4f-8d54-c5e900ef8050/script.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-bce74803-6e97-4a4f-8d54-c5e900ef8050-mjhXoz4"></script>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0M8BA80AV831QR91CD6"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link rel="stylesheet" type="text/css" href="/wps/wcm/connect/6ae82297-a899-4968-a9ab-f7915be190c1/need.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-6ae82297-a899-4968-a9ab-f7915be190c1-mcHN3Wg">
+<link rel="stylesheet" type="text/css" href="/wps/wcm/connect/aa8f0cc1-2c02-493b-814b-8df367a381e4/slick-theme.css?MOD=AJPERES">
+<link rel="stylesheet" type="text/css" href="/wps/wcm/connect/ce419272-a960-4e49-ade2-67b50b3294d1/slick.css?MOD=AJPERES">
+<style type="text/css">
+.chica:after {
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 169%;
+    background: url(/wps/wcm/connect/997faa93-3f83-4892-9a69-f95b19a23296/que-necesitas-negocios-pymes-mujer3.png?MOD=AJPERES) no-repeat center;
+    background-size: contain;
+    display: block;
+    bottom: -28%;
+}
+.need-slide-info a{
+color: #eee !important;
+}
+@media screen and (max-width: 768px) {
+#need {
+    background: gainsboro;
+    padding-bottom: initial!important;
+}
+.slick-prev{margin-left: 0px !important;}
+.slick-next{margin-right: 0px  !important;}
+}
+.chica{
+    -webkit-box-shadow: 9px 6px 56px 13px rgba(0,0,0,0.2);
+-moz-box-shadow: 9px 6px 56px 13px rgba(0,0,0,0.2);
+box-shadow: 9px 6px 56px 13px rgba(0,0,0,0.2);
+        margin-bottom: 25px;
+        background:#dadad9; 
+        margin-top: 22px;
+}
+#need{
+    background: gainsboro;
+    padding-bottom: 36px;
+}
+#need h2 {
+    color: #595959;
+    font-weight: 800;
+    text-align: left;
+    font-size: 42px;
+}
+#need .select-style select {
+    color: #00448c;
+    font-weight: 700;
+    padding: 8px 30px 8px 8px;
+    width: 100%;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: #f1f1f1b5;
+    background-image: none;
+    -webkit-appearance: none;
+}
+.lupa{
+    margin-left: 28px;
+}
+.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {background: #ffca00 !important;}
+.slick-next{
+display: block;
+background: #ffca00;
+width: 40px;
+height: 40px;
+margin-right: -27px;
+border-radius: 50%;
+
+}
+
+
+.slick-next::before {
+content: url(/wps/wcm/connect/9b0db2b1-d8a7-4209-b189-8007f9d596ea/arrow.svg?MOD=AJPERES);
+top: 9px;
+left: 9px;
+position: absolute;
+
+}
+
+.slick-prev{
+display: block;
+background: #ffca00;
+width: 40px;
+height: 40px;
+margin-left: -27px;
+border-radius: 50%;
+z-index: 99;
+
+}
+
+
+
+.slick-prev::before {
+content: url(/wps/wcm/connect/9b0db2b1-d8a7-4209-b189-8007f9d596ea/arrow.svg?MOD=AJPERES);
+top: 6px;
+transform: rotate(180deg);
+left: 9px;
+position: absolute;
+}
+
+.borde{
+    border-left: 2px solid #ccc4c4;
+    margin: 20px 0;
+}
+@media only screen and (max-width:994px) {
+    .chica:after{
+        display: none;
+    }
+}
+@media only screen and (min-width:994px) {
+    .lachica{
+        display: none;
+        text-align: center;
+    }
+}
+.lachica{
+    text-align: center;
+}
+
+</style>
+<div ng-app="yo-necesito" ng-controller="yoNecesitoController" class="ng-scope active">
+        <section id="need">
+            <div class="container-fluid relative">
+                    <div class="col-md-12">
+                        <div class="col-md-2 col-md-push-4">
+                            <img src="/wps/wcm/connect/d38ee333-61bd-40e9-9e35-f8d494ba214b/lupa-negocios-pyme.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-d38ee333-61bd-40e9-9e35-f8d494ba214b-mbUA7-C" alt="" class="lupa">
+                        </div>
+                        <div class="col-md-6 col-md-push-4">
+                        <h2>Encuentra aquí soluciones para tu empresa</h2>
+                           </div>
+                           
+                               <div class="col-md-12 chica">
+                                
+                                <div class="col-md-6 col-md-push-6 borde">
+                                        <form id="simuForm" role="form" action="" class="ng-pristine ng-valid">
+                                        <div class="form-group">
+                                                <div class="col-md-4 col-md-push-1">
+
+                                                <label for="slc-need">Yo necesito</label>
+                                                </div>
+                                                <div class="row">
+                                                <div class="col-md-6">
+                                                <div class="select-style">
+                                                    <select id="slc-need" ng-model="filter.necesito" ng-change="filter.changeNeed()" class="ng-pristine ng-valid">
+                                                        <option value="" disabled="" selected="">Selecciona una opción</option>
+                                                        <!-- ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;f4271799-2803-9e7e-9740-f4533d62ac0b&quot;,&quot;name&quot;:&quot;Adquirir equipos y activos&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Adquirir equipos y activos</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;dd31266f-d679-c2bc-3d1f-76d241266c77&quot;,&quot;name&quot;:&quot;Ahorrar o Invertir&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Ahorrar o Invertir</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;7c9f9352-35b8-1333-e75c-432b1516e7ac&quot;,&quot;name&quot;:&quot;Comercio Internacional&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Comercio Internacional</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;e16bef19-e462-a764-918b-46dfb3646c43&quot;,&quot;name&quot;:&quot;Manejar el día a día de mi negocio&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Manejar el día a día de mi negocio</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;99118db6-cc07-a8c4-2e61-037967204f66&quot;,&quot;name&quot;:&quot;Préstamos /Créditos&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Préstamos /Créditos</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;931916ec-f197-353b-a6e6-be46a70d631a&quot;,&quot;name&quot;:&quot;Seguros&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Seguros</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;86610c89-0045-a079-9825-184c874d31c7&quot;,&quot;name&quot;:&quot;Tarjetas de crédito&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Tarjetas de crédito</option><!-- end ngRepeat: necesito in data.necesito -->
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="col-md-4 col-md-push-1">
+                                                <label for="slc-for">Para</label>
+                                            </div>
+                                            <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="select-style">
+                                                    <select id="slc-for" ng-model="filter.para" ng-disabled="!data.para || !data.para.length" ng-options="para.name for para in data.para track by para.id" class="ng-pristine ng-valid" disabled="disabled"><option value="" selected="" class="">Selecciona una opción</option></select>
+                                                </div>
+                                             <div>&nbsp;</div>
+                                           <button type="submit" ng-href="#need-answer" class="btn btnPrincipal desplegar" ng-disabled="!filter.necesito || !filter.para" ng-click="filter.show()" href="#need-answer" disabled="disabled">
+                                                <i class="fa fa-angle-right" aria-hidden="true"></i> Muéstrame
+                                            </button>
+                                        
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </form>
+                                </div>
+                            </div>
+                            <div class="lachica">
+                                <img src="/wps/wcm/connect/997faa93-3f83-4892-9a69-f95b19a23296/que-necesitas-negocios-pymes-mujer3.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-997faa93-3f83-4892-9a69-f95b19a23296-mbUf9ya" alt="">
+                            </div>
+                               
+                        
+                    </div>
+               
+
+                <!-- ngIf: filter.necesito && filter.para && (filtered.data && !filtered.data.length) -->
+
+                <!-- ngIf: filtered.data.length -->
+            </div>
+        </section>
+</div>
+
+
+<!--Plugins-->
+        <!-- Angular Slick ( https://github.com/vasyabigi/angular-slick ) -->
+        <script src="/wps/wcm/connect/e8f503b2-8bde-43a8-a58a-8241173eff10/slick.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e8f503b2-8bde-43a8-a58a-8241173eff10-mdLL93k"></script>
+        <script src="/wps/wcm/connect/18f24219-7908-4503-afe8-b963ae47d129/angular-slick.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-18f24219-7908-4503-afe8-b963ae47d129-m81Q7Gi"></script>
+
+        <!--app-->
+        <script src="/wps/wcm/connect/629b60ab-65e1-43ea-856f-de909e46e809/app.js?MOD=AJPERES" type="text/javascript"></script>
+        <script>
+        
+        $(document).ready(function() {
+$('.desplegar').click(function(e){
+    e.preventDefault();   //evitar el eventos del enlace normal
+    var strAncla=$(this).attr('ng-href'); //id del ancla
+      $('body,html').stop(true,true).animate({        
+        scrollTop: $(strAncla).offset().top
+      },1000);
+  });
+});
+        </script>
+    
+      
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0M8BA80AV831QR91CD4 active"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <section id="featured" class="">
+<link rel="stylesheet" type="text/css" href="/wps/wcm/connect/f4f92408-7deb-4877-b1d6-f40eb6c54239/featured.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-f4f92408-7deb-4877-b1d6-f40eb6c54239-mcD.SvZ">
+<section class="col-sm-6 col-xs-12 featured-father" style="height: 502px;">
+   <div class="swiper-container swiper-container-horizontal">
+      <div class="swiper-wrapper" style="transform: translate3d(-950px, 0px, 0px); transition-duration: 0ms;"><div class="featured-content-big swiper-slide swiper-slide-prev" style="width: 950px;">
+	<img src="/wps/wcm/connect/44b8d05f-924a-4ec4-b670-acbfc66af4cd/oportunidades-exportacion.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-44b8d05f-924a-4ec4-b670-acbfc66af4cd-nu1Vq5f" alt="" class="img-responsive featured-father" style="height: 500px;">
+	<div class="overlay big">
+		<div class="text-content big">
+			<h2>Exportar: un reto que puede ser realidad</h2>
+			<p>En 2020 un sinnúmero de empresas colombianas desplegó estrategias de exportación que no solo compensaron las bajas ventas a nivel nacional, sino que les representó oportunidades de crecimiento. Los voceros de tres empresas nos comparten experiencias sobre sus procesos de internacionalización.</p>
+ <a href="/wps/portal/negocios/actualizate/comercio-internacional/oportunidades-y-recomendaciones-para-exportar-pandemia/" class="btnPrincipal"> Descubre más</a>
+		</div>
+	</div>
+</div><div class="featured-content-big swiper-slide swiper-slide-active" style="width: 950px;">
+	<img src="/wps/wcm/connect/00af2fc0-7ba4-4df3-a30f-de192445d123/brecha-salarial-mujeres.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-00af2fc0-7ba4-4df3-a30f-de192445d123-nu1VuY." alt="" class="img-responsive featured-father" style="height: 500px;">
+	<div class="overlay big">
+		<div class="text-content big">
+			<h2>Mujeres trabajadoras en pandemia: impactos y estrategias</h2>
+			<p>¿Cómo están las mujeres en cuanto a condiciones laborales en tu negocio? La brecha de género laboral en Colombia aumentó con la pandemia. Estos son 8 focos que toda empresa debería trabajar para aportar a la equidad de género y la experiencia del Grupo Éxito y Celsia, dos compañias con reconocimientos por el buen trabajo en el tema. No te pierdas sus estrategias y resultados.</p>
+ <a href="/wps/portal/negocios/actualizate/tendencias/mujeres-trabajadoras-en-la-pandemia/" class="btnPrincipal"> Descubre más</a>
+		</div>
+	</div>
+</div><div class="featured-content-big swiper-slide swiper-slide-next" style="width: 950px;">
+	<img src="/wps/wcm/connect/0161e1b1-1e5c-45fe-aed4-300fa37408eb/economia-naranja.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-0161e1b1-1e5c-45fe-aed4-300fa37408eb-nu1VzYT" alt="" class="img-responsive featured-father" style="height: 500px;">
+	<div class="overlay big">
+		<div class="text-content big">
+			<h2>Rentas exentas para empresas de Economía Naranja</h2>
+			<p>Si eres una joyera o un fotógrafo; si produces o distribuyes videos o películas; si desarrollas sistemas informáticos; si eres músico, escritor, actor o pintor… Mejor dicho, si te dedicas a algunas de las 26 actividades que hacen parte de la Economía Naranja puedes aprovechar la exención de renta por 7 años que lanzó recientemente el Gobierno Nacional, para darle impulso a las industrias culturales y creativas.</p>
+ <a href="/wps/portal/negocios/actualizate/legal-y-tributario/rentas-exentas-empresas-economia-naranja/" class="btnPrincipal"> Descubre más</a>
+		</div>
+	</div>
+</div>     </div>
+    <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span></div>
+  </div>
+</section>
+
+<div class="col-sm-6 col-xs-12 featured-father" style="height: 502px;">
+<div class="col-sm-6 col-xs-6">
+	<div class="featured-content">
+		<a href="/wps/portal/negocios/actualizate/administracion-y-finanzas/plan-continuidad-del-negocio/"><img src="/wps/wcm/connect/b0092d43-0068-48ed-9b75-d7860d9d1d30/pasos-crear-plan-continuidad-del-negocio-thumbnail-nuevo.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-b0092d43-0068-48ed-9b75-d7860d9d1d30-nxKMWvK" alt="" class="img-responsive img-featured"></a>
+		<div class="overlay">
+			<div class="text-content small">
+				<a href="/wps/portal/negocios/actualizate/administracion-y-finanzas/plan-continuidad-del-negocio/">
+				<h3>Pasos para crear el plan de continuidad del negocio</h3>
+				<span>Seguir leyendo &gt;&gt;</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="col-sm-6 col-xs-6">
+	<div class="featured-content">
+		<a href="/wps/portal/negocios/actualizate/tendencias/roles-perfiles-directivos-organizaciones"><img src="/wps/wcm/connect/79988470-c989-497b-9c88-fd9812bfbccc/roles-directivos-empresas-thumbnail-nuevo.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-79988470-c989-497b-9c88-fd9812bfbccc-nxG.tsZ" alt="" class="img-responsive img-featured"></a>
+		<div class="overlay">
+			<div class="text-content small">
+				<a href="/wps/portal/negocios/actualizate/tendencias/roles-perfiles-directivos-organizaciones"><h5>Tendencias</h5>
+				<h3>6 tipos de perfiles directivos en las organizaciones</h3>
+				<span>Seguir leyendo &gt;&gt;</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="col-sm-6 col-xs-6">
+	<div class="featured-content">
+		<a href="/wps/portal/negocios/actualizate/tendencias/centros-transformacion-digital-empresarial-colombia-2021"><img src="/wps/wcm/connect/1e816d30-ba3d-4b13-8da3-01f9d1d34573/tb-nuevo-centros-transformacion-digital.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-1e816d30-ba3d-4b13-8da3-01f9d1d34573-nxcncKS" alt="" class="img-responsive img-featured"></a>
+		<div class="overlay">
+			<div class="text-content small">
+				<a href="/wps/portal/negocios/actualizate/tendencias/centros-transformacion-digital-empresarial-colombia-2021"><h5>Tendencias</h5>
+				<h3>Centros de Transformación Digital Empresarial en Colombia 2021</h3>
+				<span>Seguir leyendo &gt;&gt;</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="col-sm-6 col-xs-6">
+	<div class="featured-content">
+		<a href="/wps/portal/negocios/actualizate/emprendimiento/iniciativas-apoyo-crecimiento-agroeconomia"><img src="/wps/wcm/connect/962feb8e-f365-4244-aa64-06f475d04e14/tb-nuevo-apoyo-al-agricultor.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-962feb8e-f365-4244-aa64-06f475d04e14-nwYBbnO" alt="" class="img-responsive img-featured"></a>
+		<div class="overlay">
+			<div class="text-content small">
+				<a href="/wps/portal/negocios/actualizate/emprendimiento/iniciativas-apoyo-crecimiento-agroeconomia"><h5>Emprendimiento</h5>
+				<h3>Iniciativas que apoyan el crecimiento de la agroeconomía  </h3>
+				<span>Seguir leyendo &gt;&gt;</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</section>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41NGNJ30QOEKCITO2K63"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="row-fluid videos" style="padding-bottom: 30px;">
+  <div class="container-fluid">
+    <style>
+.owl-carousel,.owl-carousel .owl-item{-webkit-tap-highlight-color:transparent;position:relative}.owl-carousel{display:none;width:100%;z-index:1}.owl-carousel .owl-stage{position:relative;-ms-touch-action:pan-Y;-moz-backface-visibility:hidden}.owl-carousel .owl-stage:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.owl-carousel .owl-stage-outer{position:relative;overflow:hidden;-webkit-transform:translate3d(0,0,0)}.owl-carousel .owl-item,.owl-carousel .owl-wrapper{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}.owl-carousel .owl-item{min-height:1px;float:left;-webkit-backface-visibility:hidden;-webkit-touch-callout:none}.owl-carousel .owl-item img{display:block;width:100%}.owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled{display:none}.no-js .owl-carousel,.owl-carousel.owl-loaded{display:block}.owl-carousel .owl-dot,.owl-carousel .owl-nav .owl-next,.owl-carousel .owl-nav .owl-prev{cursor:pointer;cursor:hand;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.owl-carousel.owl-loading{opacity:0;display:block}.owl-carousel.owl-hidden{opacity:0}.owl-carousel.owl-refresh .owl-item{visibility:hidden}.owl-carousel.owl-drag .owl-item{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.owl-carousel.owl-grab{cursor:move;cursor:grab}.owl-carousel.owl-rtl{direction:rtl}.owl-carousel.owl-rtl .owl-item{float:right}.owl-carousel .animated{animation-duration:1s;animation-fill-mode:both}.owl-carousel .owl-animated-in{z-index:0}.owl-carousel .owl-animated-out{z-index:1}.owl-carousel .fadeOut{animation-name:fadeOut}@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}.owl-height{transition:height .5s ease-in-out}.owl-carousel .owl-item .owl-lazy{opacity:0;transition:opacity .4s ease}.owl-carousel .owl-item img.owl-lazy{transform-style:preserve-3d}.owl-carousel .owl-video-wrapper{position:relative;height:100%;background:#000}.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url(owl.video.play.png) no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;transition:transform .1s ease}.owl-carousel .owl-video-play-icon:hover{-ms-transform:scale(1.3,1.3);transform:scale(1.3,1.3)}.owl-carousel .owl-video-playing .owl-video-play-icon,.owl-carousel .owl-video-playing .owl-video-tn{display:none}.owl-carousel .owl-video-tn{opacity:0;height:100%;background-position:center center;background-repeat:no-repeat;background-size:contain;transition:opacity .4s ease}.owl-carousel .owl-video-frame{position:relative;z-index:1;height:100%;width:100%}
+
+/*------- videos -------*/
+.cont-videos.cont-videos-carousel {
+    padding: 0 32px;
+}
+
+.videos {
+    background: #fff;
+    margin: 40px 0;
+    position: relative;
+    padding-bottom: 50px !important;
+}
+
+.btn-video{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.videos h2 {
+  color: #112c60;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+.videos h3 {
+    color: #112c60;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.videos p {
+    line-height: 17px;
+    color: #595959;
+    font-weight: bold;
+}
+.videos .owl-carousel .owl-controls {
+    margin-top: -64px;
+    position: absolute;
+    top: 45%;
+    width: 100%;
+}
+.videos .owl-theme .owl-controls .owl-prev {
+    float: left;
+    margin-left: -32px;
+}
+.row-fluid.videos .owl-theme .owl-controls .owl-next {
+  background-position: -20px center;
+  float: right;
+  margin-right: -32px;
+}
+.videos .owl-controls > .owl-nav > .owl-prev, .videos .owl-controls > .owl-nav > .owl-next {
+    background: rgba(0, 0, 0, 0) url("/wps/wcm/connect/b57abdb9-163a-4aa5-b7e9-4cd5f1ede7f4/arrow-videos.png?MOD=AJPERES") no-repeat scroll 7px center;
+    color: transparent !important;
+    padding: 12px 16px 0;
+    text-indent: -9999px;
+    width: 16px;
+}
+</style>
+
+<a href="/wps/portal/negocios-pymes/docufilms/" class="btnPrincipal btn-video">Ver todos los videos</a>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="cont-videos cont-videos-carousel">
+          <div class="owl-carousel  owl-theme owl-loaded">
+            
+          <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-911.001px, 0px, 0px); transition: all 0s ease 0s; width: 3644px;"><div class="owl-item cloned" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/Sd0Eqbf6jH8?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="Creer" en="" tu="" producto="" es="" el="" primer="" camino="" hacia="" éxito"=""><img src="/wps/wcm/connect/983a326e-eaba-4bfa-95bc-4ff4934b01d9/atmosphere.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-983a326e-eaba-4bfa-95bc-4ff4934b01d9-meiqf1." alt="Creer en tu producto es el primer camino hacia el éxito" title="Creer en tu producto es el primer camino hacia el éxito" class="center-block"></a>
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Creer en tu producto es el primer camino hacia el éxito</h3>
+      <p dir="ltr">Rodrigo Gómez – Atmosphere</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item cloned" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/4ry9b5atX5s?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="La pasión es fundamental a la hora de hacer un negocio"><img src="/wps/wcm/connect/5d65aa27-ae6c-4c3c-84a8-b0008f53bb90/FresasAlcazar.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-5d65aa27-ae6c-4c3c-84a8-b0008f53bb90-meiqg.s" alt="La pasión es fundamental a la hora de hacer un negocio" title="La pasión es fundamental a la hora de hacer un negocio" class="center-block"></a>
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>La pasión es fundamental a la hora de hacer un negocio</h3>
+      <p dir="ltr">Diana Otero – Fresas del Alcázar</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item cloned" style="width: 288.667px; margin-right: 15px;"><div class="owl-controls"></div></div><div class="owl-item active" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/cxu3svbrphw?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="Todos Podemos Hacer Empresa"><img src="/wps/wcm/connect/f641dab9-2f66-48ee-91f5-b362c4dc5f98/1.jpg?MOD=AJPERES" alt="Todos Podemos Hacer Empresa" title="Todos Podemos Hacer Empresa" class="center-block"></a>
+
+
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Todos podemos hacer empresa</h3>
+      <p dir="ltr">Federico Eckardt – Heritage Group</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item active" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/Evj5QqLI_V4?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="Vivir de tu negocio no es imposible"><img src="/wps/wcm/connect/701b8380-a0c6-4f85-9af2-e98af06dd84e/HomeBurgers.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-701b8380-a0c6-4f85-9af2-e98af06dd84e-meip.39" alt="Vivir de tu negocio no es imposible" title="Vivir de tu negocio no es imposible" class="center-block"></a>
+
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Vivir de tu negocio no es imposible</h3>
+      <p dir="ltr">Camilo Peláez – Home Burgers</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item active" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/KToUIsaYlp4?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="La disciplina es un gran aliado a la hora de hacer empresa"><img src="/wps/wcm/connect/49d447d7-e0e9-4894-bbd9-e5762f995346/Espumaderas.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-49d447d7-e0e9-4894-bbd9-e5762f995346-meiq7ni" alt="La disciplina es un gran aliado a la hora de hacer empresa" title="La disciplina es un gran aliado a la hora de hacer empresa" class="center-block"></a>
+
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>La disciplina es un gran aliado a la hora de hacer empresa</h3>
+      <p dir="ltr">Ricardo Puentes – Espumaderas</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/Sd0Eqbf6jH8?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="Creer" en="" tu="" producto="" es="" el="" primer="" camino="" hacia="" éxito"=""><img src="/wps/wcm/connect/983a326e-eaba-4bfa-95bc-4ff4934b01d9/atmosphere.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-983a326e-eaba-4bfa-95bc-4ff4934b01d9-meiqf1." alt="Creer en tu producto es el primer camino hacia el éxito" title="Creer en tu producto es el primer camino hacia el éxito" class="center-block"></a>
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Creer en tu producto es el primer camino hacia el éxito</h3>
+      <p dir="ltr">Rodrigo Gómez – Atmosphere</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/4ry9b5atX5s?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="La pasión es fundamental a la hora de hacer un negocio"><img src="/wps/wcm/connect/5d65aa27-ae6c-4c3c-84a8-b0008f53bb90/FresasAlcazar.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-5d65aa27-ae6c-4c3c-84a8-b0008f53bb90-meiqg.s" alt="La pasión es fundamental a la hora de hacer un negocio" title="La pasión es fundamental a la hora de hacer un negocio" class="center-block"></a>
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>La pasión es fundamental a la hora de hacer un negocio</h3>
+      <p dir="ltr">Diana Otero – Fresas del Alcázar</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item" style="width: 288.667px; margin-right: 15px;"><div class="owl-controls"></div></div><div class="owl-item cloned" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/cxu3svbrphw?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="Todos Podemos Hacer Empresa"><img src="/wps/wcm/connect/f641dab9-2f66-48ee-91f5-b362c4dc5f98/1.jpg?MOD=AJPERES" alt="Todos Podemos Hacer Empresa" title="Todos Podemos Hacer Empresa" class="center-block"></a>
+
+
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Todos podemos hacer empresa</h3>
+      <p dir="ltr">Federico Eckardt – Heritage Group</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item cloned" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/Evj5QqLI_V4?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="Vivir de tu negocio no es imposible"><img src="/wps/wcm/connect/701b8380-a0c6-4f85-9af2-e98af06dd84e/HomeBurgers.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-701b8380-a0c6-4f85-9af2-e98af06dd84e-meip.39" alt="Vivir de tu negocio no es imposible" title="Vivir de tu negocio no es imposible" class="center-block"></a>
+
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Vivir de tu negocio no es imposible</h3>
+      <p dir="ltr">Camilo Peláez – Home Burgers</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item cloned" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a data-url="https://www.youtube.com/embed/KToUIsaYlp4?autoplay=1" href="" target="" class="videoCarouselHome" data-toggle="modal" data-target="#bancolombiaVideoCarousel" title="La disciplina es un gran aliado a la hora de hacer empresa"><img src="/wps/wcm/connect/49d447d7-e0e9-4894-bbd9-e5762f995346/Espumaderas.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-49d447d7-e0e9-4894-bbd9-e5762f995346-meiq7ni" alt="La disciplina es un gran aliado a la hora de hacer empresa" title="La disciplina es un gran aliado a la hora de hacer empresa" class="center-block"></a>
+
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>La disciplina es un gran aliado a la hora de hacer empresa</h3>
+      <p dir="ltr">Ricardo Puentes – Espumaderas</p>
+
+    </div>
+  </div>
+</div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="">&lt;</div><div class="owl-next" style="">&gt;</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41NGFN60QSF88VDM9BJ0 active"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <!-- Referencia de componente -->
+<link rel="stylesheet" href="/wps/wcm/connect/b506d8c8-79f8-410f-8302-2c52b3eccde0/swiper.min.css?MOD=AJPERES" type="text/css">
+<style>
+.overlay:before {
+content: '';
+position: absolute;
+background: rgba(0, 0, 0, 0.2);
+border-radius: 5px;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="">
+
+<section id="slider">
+  <div class="swiper-container swiper-container-horizontal">
+    <div class="swiper-wrapper"><div class="home-autopauta-derecha-txt swiper-slide swiper-slide-active" style="width: 1903px;">
+  <div class="contenido">
+	<div style="background-color: #000; background-image: url(/wps/wcm/connect/6be36476-909e-4e72-9ea9-183ea3ac9865/BANNER+INFERIOR_Desktop1600x600.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-6be36476-909e-4e72-9ea9-183ea3ac9865-nwSPDVf)" class="fondo row-fluid hidden-xs"></div>
+<div style="background-color: #000; background-image: url(/wps/wcm/connect/c6c70a77-7e15-409b-9330-fe1eada9074b/BANNER+INFERIOR_Mobile360530.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-c6c70a77-7e15-409b-9330-fe1eada9074b-nwSPJun)" class="fondo row-fluid visible-xs"></div>
+    <div class="container-fluid">
+      <div class="col-sm-6 col-sm-push-6">
+        <div class="cont">
+          <style type="text/css">.text-inferior, .description {
+
+
+        color: white;
+    }
+
+
+    .btn-inferior-001 {
+        background-color: #ffd600!important;
+color: #292929!important;
+    }
+
+    .pagination-autoPauta {
+        display: none;
+    }
+    .cont{
+        position: relative;
+        right: 35rem;
+    }
+    /* Borrar o comentar .swiper-pagination para que se muestren los bullets */
+    @media only screen and (max-width: 600px) {
+        .text-inferior {
+            color: #595959;
+        }
+    }
+        @media screen and (max-width: 600px) {
+
+            .cont{
+                position: unset;
+            }
+            .description {
+                color:#595959;
+            }
+        }
+    @media only screen and (min-width: 768px) and (max-width:850px)
+    {
+        .cont{
+            position: relative;
+            right: 25rem;
+        }
+    }
+</style>
+<div class="col-md-12" dir="ltr">
+<p class="description"><span style="font-size:28px;"><span style="color:#ffd600">Mis Aliados,</span> una solución para ti que eres independiente y prestas un servicio. </span></p>
+<a href="https://misaliados.com.co/" title="¡Conócela!" target="_blank" alt="" class="btn col-md-push-1 col-sm-push-1 btn-inferior-001 home-negocios-content-BtnBanner-1">¡Conócela!</a></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>     </div>
+    <div class="swiper-pagination pagination-autoPauta swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span></div>
+  </div>
+</section>
+<script src="/wps/wcm/connect/1cd55cb5-60b0-4caf-9df8-d522cac220de/swiper.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-1cd55cb5-60b0-4caf-9df8-d522cac220de-lULVISH"></script>
+
+<script src="/wps/wcm/connect/bce74803-6e97-4a4f-8d54-c5e900ef8050/script.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-bce74803-6e97-4a4f-8d54-c5e900ef8050-mjhXoz4"></script>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0M8BA80AV831QR9PU64 active"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link rel="stylesheet" type="text/css" href="/wps/wcm/connect/652fec73-035e-4898-b5c3-aabfcf92de10/services.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-652fec73-035e-4898-b5c3-aabfcf92de10-mA1oMRn">
+<section id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 services-content">
+          <h3>Recomendamos</h3>
+          <div>
+            <a title="Las redes sociales como aliadas de mi negocio" target="_self" href="/wps/portal/negocios-pymes/eventos/todos-los-eventos/las-redes-sociales-como-aliadas-de-mi-negocio/">
+              <img src="/wps/wcm/connect/c860cbd2-3ceb-437c-8e48-1bfe80c744ef/evento.png?MOD=AJPERES" alt="Las redes sociales como aliadas de mi negocio">
+              <p><span>Evento</span> - Las redes sociales como aliadas de mi negocio.</p>
+            </a>
+          </div>
+          <div>
+            <a title="Herramienta - Simulador de Tarjeta de Crédito Mastercard." target="_self" href="/wps/portal/negocios-pymes/herramientas/tarjeta-de-credito-mastercard-negocios/">
+              <img src="/wps/wcm/connect/a2c57b43-be5d-4351-98f1-c2708594324b/herramienta.png?MOD=AJPERES" alt="Herramienta - Simulador de Tarjeta de Crédito Mastercard.">
+              <p><span>Herramienta</span> - Simulador de Tarjeta de Crédito Mastercard.</p>
+            </a>
+          </div>
+          <div>
+            <a title="Productos financieros - Cartera Ordinaria." target="_self" href="/wps/portal/negocios-pymes/productos-financieros/cartera-ordinaria/">
+              <img src="/wps/wcm/connect/59b42671-d958-4fce-b88f-6de8f64f8438/productos-financieros.png?MOD=AJPERES" alt="Productos financieros - Cartera Ordinaria.">
+              <p><span>Productos financieros</span> - Cartera Ordinaria.</p>
+            </a>
+          </div>
+          <div>
+            <a title="Canales para tu servicio - Sucursal Virtual." target="_self" href="/wps/portal/empresas/productos-servicios/canales-servicio/sucursal-web/sucursal-virtual-empresas/">
+              <img src="/wps/wcm/connect/3a2a2ff2-8ba5-4d9c-9539-451c34f76010/canales-para-tu-servicio.png?MOD=AJPERES" alt="Canales para tu servicio - Sucursal Virtual.">
+              <p><span>Canales para tu servicio</span> - Sucursal Virtual.</p>
+            </a>
+          </div>
+          <hr>
+        </div>
+        <div class="col-md-4 services-content" id="services-second">
+          <h3>Te puede interesar</h3>
+          <ul>
+            <li><a title="Administración y Finanzas" target="_self" href="/wps/portal/negocios-pymes/actualizate/administracion-y-finanzas?categoria=Administraci%C3%B3n%20y%20Finanzas">Administración y Finanzas</a></li>
+            <li><a title="Banco Positivo" target="_self" href="/wps/portal/negocios-pymes/actualizate/banco-positivo?categoria=Banco%20Positivo">Banco Positivo</a></li>
+            <li><a href="http://10.120.254.29:10039/wps/portal/negocios-pymes/actualizate/comercio-internacional?categoria=Comercio%20Internacional" title="Comercio Internacional" target="_self">Comercio Internacional</a></li>
+            <li><a title="Emprendimiento" target="_self" href="/wps/portal/negocios-pymes/actualizate/emprendimiento?categoria=Emprendimiento">Emprendimiento</a></li>
+            <li><a title="Entrenamiento Financiero" target="_self" href="/wps/portal/negocios-pymes/actualizate/entrenamiento-financiero?categoria=Entrenamiento%20Financiero">Entrenamiento Financiero</a></li>
+            <li><a title="Legal y Tributario" target="_self" href="/wps/portal/negocios-pymes/actualizate/legal-y-tributario?categoria=Legal%20y%20Tributario">Legal y Tributario</a></li>
+            <li><a title="Mercadeo y Ventas" target="_self" href="/wps/portal/negocios-pymes/actualizate/mercadeo-y-ventas?categoria=Mercadeo%20y%20Ventas">Mercadeo y Ventas</a></li>
+            <li><a title="Perspectivas Económicas" target="_self" href="/wps/portal/negocios-pymes/actualizate/perspectivas-economicas?categoria=Perspectivas%20Econ%C3%B3micas">Perspectivas Económicas</a></li>
+            <li><a title="Sostenibilidad" target="_self" href="/wps/portal/negocios-pymes/actualizate/sostenibilidad?categoria=Sostenibilidad">Sostenibilidad</a></li>
+            <li><a title="Tendencias" target="_self" href="/wps/portal/negocios-pymes/actualizate/tendencias?categoria=Tendencias">Tendencias</a></li>
+          </ul>
+          <a href="/wps/portal/negocios-pymes/actualizate/" class="link">Ver todas las categorías</a>
+        </div>
+        <div class="col-md-4 services-content" id="featured-services">
+          <h3>Si quieres estar enterado de todo lo que ocurre en el mundo de los negocios, suscríbete a nuestro boletín mensual.</h3>
+          <span class="number">1.</span>
+          <p style="margin-top: 20px;"> Información semanal.</p>
+          <span class="number">2.</span>
+          <p style="margin-top: 22px;">Temas de interés.</p>
+          <span class="number">3.</span>
+          <p style="margin-top: 30px;">Lo último en tendencias.</p>
+          <a title="" target="" href="/wps/portal/negocios-pymes/actualizate/suscribete-a-nuestro-boletin/" class="btnPrincipal"><i class="fa fa-angle-right" aria-hidden="true"></i>Suscribirme</a>
+        </div>
+      </div>
+    </div>
+  </section>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0M8BA80AV831QR9PU66"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link rel="stylesheet" href="/wps/wcm/connect/5cb9a1a1-fb44-47da-877c-e3d667a197ac/paginator.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-5cb9a1a1-fb44-47da-877c-e3d667a197ac-m7aONTm">
+<link rel="stylesheet" href="/wps/wcm/connect/e991a577-9931-4922-8895-2fd5715fe746/modal-pyme.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e991a577-9931-4922-8895-2fd5715fe746-mcXvO3Q">
+<!--<link rel="stylesheet" href="/wps/wcm/connect/2999cfb6-af33-468c-b5ea-ba483a412372/imagen-fit.css?MOD=AJPERES">-->
+<!--<link rel="stylesheet" href="/wps/wcm/connect/0c35c96a-d530-4094-beca-ae6167287c72/owl.carousel.min.css?MOD=AJPERES" type="text/css">-->
+<style>
+#personasNivel2{display:block !important}
+.menu__link:focus, .menu__link:hover, .menu__link[data-submenu]:hover::after{color:#ffd200!important}
+.menu__wrap ul .menu__item:nth-of-type(8) ul .menu__item:nth-of-type(4) {
+    display: none;
+}
+.links-f {
+    background: url(/wps/wcm/connect/3d4a68d6-4a65-4b1b-a56f-8c1d3b32a75b/superintendencia.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3d4a68d6-4a65-4b1b-a56f-8c1d3b32a75b-l6SXgBc) 2px 36px no-repeat scroll;
+}
+.home-autopauta-derecha-txt {
+    position: relative;
+    background-color: #f2f2f2
+}
+
+.home-autopauta-derecha-txt li a {
+    text-decoration: underline
+}
+
+@media screen and (min-width: 768px) {
+    .home-autopauta-derecha-txt .fondo {
+        position:absolute;
+        width: 100%;
+        height:450px;
+        background-size: cover;
+        background-position: top center;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .home-autopauta-derecha-txt .fondo {
+        min-height:450px;
+        width: 100%;
+        background-size: cover;
+        background-position: 100%
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .home-autopauta-derecha-txt .fondo {
+        min-height:400px;
+        width: 100%
+    }
+}
+
+.home-autopauta-derecha-txt .contenido p a.btn-primary {
+    text-decoration: none !important
+}
+
+.home-autopauta-derecha-txt .contenido img {
+    margin: 20px 0
+}
+
+@media screen and (min-width: 768px) {
+    .home-autopauta-derecha-txt .contenido img {
+        margin:24px 0 0 34px
+    }
+}
+
+.home-autopauta-derecha-txt .contenido .cont {
+    display: table-cell;
+    height: 450px;
+    padding-top: 52px;
+    vertical-align: middle
+}
+
+@media screen and (max-width: 767px) {
+    .home-autopauta-derecha-txt .contenido .cont {
+        padding-top:0;
+        height: auto
+    }
+}
+
+.home-autopauta-derecha-txt .contenido .cont h2 {
+    color: #00448c;
+    margin-left: 34px
+}
+
+@media screen and (max-width: 767px) {
+    .home-autopauta-derecha-txt .contenido .cont h2 {
+        margin-left:0
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .home-autopauta-derecha-txt .contenido {
+        width:100%;
+        top: 0
+    }
+}
+
+.home-autopauta-derecha-txt .contenido p {
+    margin: 20px 0
+}
+
+@media screen and (min-width: 768px) {
+    .home-autopauta-derecha-txt .contenido p {
+        margin:24px 0 24px 34px
+    }
+}
+
+.home-autopauta-derecha-txt .contenido p .more {
+    display: block
+}
+
+.home-autopauta-derecha-txt .contenido ul.check-list {
+    padding-left: 57px
+}
+.top-menu .container-fluid .row{
+background: #fff;
+z-index: 9999;
+width: 80%;
+left: -80px;
+padding: 10px 30px 30px;
+}
+
+.top-menu .container-fluid .row h2{
+color: #444;
+font-size: 18px;
+font-weight: bold;
+padding: 17px 0 10px;
+}
+
+.top-menu .container-fluid .row a{
+color: #444;
+text-decoration: none;
+}
+.top-nav #menu-filiales {
+    background: url(https://www.grupobancolombia.com/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/images/modules/navegacion/icons/arrow.png) right center no-repeat !important;
+}
+
+</style>
+<section id="footer">
+  <div class="container">
+    <div class="row" id="footer-icon">
+      <div class="col-md-3 col-sm-3 col-xs-3"><a title="" target="" href="/wps/portal/empresas/chatea-con-nosotros/"><img src="/wps/wcm/connect/852a0928-7aea-435f-8cca-efbdd1a2eeb2/chat2.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-852a0928-7aea-435f-8cca-efbdd1a2eeb2-lZfeEEH" alt="">Chatea con nosotros</a></div>
+      <div class="col-md-3 col-sm-3 col-xs-3"><a href="https://asistencia.webv2.allus.com.co/WebAPI802/ClicktoCallBancolombiaEmpresas/ClicktoCall/customer.jsp?fuente=bancolombia%20contacto&amp;segmento=empresas&amp;sitio=aunclic&amp;_ga=2.193010024.417709329.1511184844-1408713379.1503416251"><img src="/wps/wcm/connect/f31ee434-707d-406a-9efc-7bb2af3a6cee/phone.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-f31ee434-707d-406a-9efc-7bb2af3a6cee-lZfeMEl" alt="">Llámanos</a></div>
+      <div class="col-md-3 col-sm-3 col-xs-3"><a title="" target="" href="/wps/portal/empresas/dejanos-llamarte/"><img src="/wps/wcm/connect/c49a1962-d5ad-4cc8-b137-28b44809a58a/phone2.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-c49a1962-d5ad-4cc8-b137-28b44809a58a-lZfeWyS" alt="">Déjanos llamarte</a></div>
+      <div class="col-md-3 col-sm-3 col-xs-3"><a title="" target="" href="/wps/portal/empresas/buscador-sucursales"><img src="/wps/wcm/connect/ad806869-d8b4-4bc7-bf2d-f4e538f94ef3/mark.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-ad806869-d8b4-4bc7-bf2d-f4e538f94ef3-lZff2N7" alt="">Visítanos</a></div>
+    </div>
+  </div>
+</section>
+<div class="container links-f">
+    <div class="footer-links k">
+      <div class="row">
+        <div class="col-sm-3">
+          <div class="row">
+            <div class="title">Comunícate con nosotros</div>
+            <ul class="check-list" dir="ltr">
+  <li><a title="" target="" href="/wps/portal/empresas/contactanos/">Contáctanos</a></li>
+  <li><a title="Trabaje con nosotros" target="" href="/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/">Trabaja con nosotros</a></li>
+  <li><img src="/wps/wcm/connect/f28cd987-0972-4fc2-a967-e33eed56c0c1/about-us.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-f28cd987-0972-4fc2-a967-e33eed56c0c1-ld2dUEW"> <a title="" target="" href="/wps/portal/about-us/">About Us</a></li>
+</ul>
+
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <div class="title">Accesos rápidos</div>
+            <ul class="check-list" dir="ltr">
+  <li><a title="Investigaciones económicas" target="" href="/wps/portal/empresas/capital-inteligente/investigaciones-economicas/">Investigaciones económicas</a></li>
+  <li><a title="Glosario" target="" href="/wps/portal/acerca-de/glosario/">Glosario</a></li>
+  <li><a title="Sostenibilidad" target="" href="/wps/portal/acerca-de/informacion-corporativa/sostenibilidad/">Sostenibilidad</a></li>
+    <li><a title="Tasas y tarifas" target="" href="/wps/portal/empresas/tarifario">Tarifario</a></li>
+    <!--<li><a href="/wps/wcm/connect/f5fb87b3-74fa-4f33-b854-a9eba812acc4/Tarifario+Bancolombia+2019+-2020+PDF+%281%29+%281%29.pdf?MOD=AJPERES&CVID=mTrv5Z7" target="_blank" >Tarifas 2019-2020</a></li>-->
+  <li><a title="Mapa del sitio" target="" href="/wps/portal/acerca-de/mapa-del-sitio">Mapa del sitio</a></li>
+  <li><a title="" target="" href="/wps/portal/empresas/transacciones/">Transacciones</a></li>
+  <li><a title="" target="" href="/wps/portal/empresas/productos-servicios/cash-management/pagos/impuestos/calendario-tributario/">Calendario Tributario</a></li>
+          </ul></div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <div class="title">Legales</div>
+            <ul class="check-list" dir="ltr">
+  <li><a title="" target="" href="/wps/portal/empresas/documentos-legales/">Documentos legales</a></li>
+  <li><a title="" target="" href="/wps/portal/empresas/condiciones-de-uso/">Condiciones de uso</a></li>
+  <li><a title="" target="" href="/wps/portal/empresas/consumidor-financiero/">Consumidor financiero</a></li>
+  <li><a title="" target="" href="/wps/portal/empresas/productos-servicios/seguros/licitacion-seguros/">Proceso licitatorio seguros 2017</a></li>
+</ul>
+
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <div class="title-networks">Síguenos en nuestras redes sociales</div>
+            <ul class="networks" dir="ltr">
+  <li class="facebook"><a href="https://www.facebook.com/bancolombia" title="Facebook" target="_blank">Facebook</a></li>
+  <li class="twitter"><a href="https://twitter.com/Bancolombia" title="Twitter" target="_blank">Twitter</a></li>
+  <li class="linkedin"><a href="https://www.linkedin.com/company/22690" title="Linkedin" target="_blank">Linkedin</a></li>
+  <li class="instagram"><a href="https://instagram.com/bancolombia/" title="Instagram" target="_blank">Instagram</a></li>
+  <li class="youtube"><a href="https://www.youtube.com/channel/UCsvQ-hst7CZGaMtHcDe5geQ" title="YouTube" target="_blank">YouTube</a></li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div id="copy" class="row">
+        <div class="col-sm-12">
+         <p dir="ltr"><strong>Copyright © 2021 Grupo Bancolombia.</strong> Productos y servicios de Banca, Fiducia, Leasing, Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las entidades del exterior en Panamá, Cayman, Puerto Rico.<br>
+<strong>Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o superior, Internet Explorer 10, 11.</strong><br>Utilizamos cookies propias y de terceros para mejorar nuestro servicio, monitorear información estadística y presentarte contenidos y publicidad relacionados con tus preferencias.</p>
+<script>
+$("#linkPymes").addClass("active");
+
+  //Funcion guardar nomenclatura de la pagina
+localStoragePage = "PageVisited_General";
+function LS_PageVisited_General() {
+  var ubicacion = window.location.pathname;
+  ubicacion = ubicacion.split('/');
+  var tamano = ubicacion.length;
+  var pagina = ""; var inicial = ""; var str = "";
+  jsonhome = ['/personas', '/personas/necesidades', '/personas/productos-servicios', '/personas/aprender-es-facil', '/empresas', '/empresas/necesidades', '/empresas/productos-servicios', '/empresas/capital-inteligente', '/acerca-de', '/acerca-de/negocios-especializados', '/acerca-de/informacion-corporativa', '/acerca-de/sala-prensa', '/about-us', '/banca-inversion/acerca-de', '/banca-inversion/productos-servicios', '/banca-inversion/industrias', '/fiduciaria', '/fiduciaria/acerca-de', '/fiduciaria/productos-servicios', '/leasing-bancolombia', '/leasing-bancolombia/acerca-de', '/leasing-bancolombia/productos-servicios', '/renting-colombia', '/renting-colombia/acerca-de', '/renting-colombia/productos-servicios', '/valores-bancolombia', '/valores-bancolombia/acerca-de', '/valores-bancolombia/productos-servicios', '/factoring', '/factoring/acerca-de', '/factoring/productos-servicios', '/asset-management', '/asset-management/acerca-de', '/asset-management/productos-servicios', '/comercio-internacional', '/comercio-internacional/necesidades', '/sufi', '/sufi/credito-para-lo-que-necesitas', '/sufi/somos-sufi', '/sufi/aprende-con-sufi', '/valores-banistmo', '/valores-banistmo/acerca-de', '/valores-banistmo/productos-servicios', '/fiduperu', '/fiduperu/acerca-de', '/fiduperu/productos-servicios', '/leasing-peru', '/leasing-peru/acerca-de', '/leasing-peru/productos-servicios', '/renting-peru', '/renting-peru/acerca-de', '/renting-peru/productos-servicios', '/sucursal-panama', '/sucursal-panama/acerca-de', '/sucursal-panama/productos-servicios', '/panama', '/panama/acerca-de', '/panama/productos-servicios', '/cayman', '/cayman/acerca-de', '/cayman/productos-servicios', '/bancolombia-puerto-rico', '/bancolombia-puerto-rico/acerca-de', '/bancolombia-puerto-rico/productos-servicios'];
+  var arracomp = [];
+  var comp = [];
+  var k = 0;
+   if (tamano >= 5) {
+      for (i = 3; i < 5; i++) {
+          arracomp[k] = ubicacion[i];
+          k += 1;
+      }
+  } else {
+      arracomp[0] = ubicacion[3];
+  }
+   comp = []
+  if (arracomp[1] != "" && arracomp[1] != null) {
+      comp[0] = '/' + arracomp[0] + '/' + arracomp[1];
+      comp[1] = '/' + arracomp[0];
+  } else {
+      comp[0] = '/' + arracomp[0];
+  }
+   for (k = 3; k < tamano; k++) {
+      var arraystr = ubicacion[k].split('-');
+      tam = arraystr.length;
+      if (tam > 1) {
+          for (j = 0; j < tam; j++) {
+              str = str + arraystr[j].substr(0, 6);
+          }
+          str = str;
+      } else {
+          str = str + ubicacion[k].substr(0, 6);
+      }
+  }
+   pagina = str.toUpperCase()
+   return pagina;
+}
+
+//funcion para guardar en el localstorage la navegación
+function LS_setPageVisited_General() {
+  var getlocal = localStorage.getItem(localStoragePage);
+  pagina = LS_PageVisited_General();
+   if (getlocal === null || getlocal === "") {
+      localStorage.setItem(localStoragePage, pagina);
+  } else {
+      arraygetlocal = getlocal.split('|');
+      tam = arraygetlocal.length;
+      var str1 = '';
+       if (tam > 1) {
+          for (i = 0; i < tam; i++) {
+              if (pagina === arraygetlocal[i]) {
+                  str1 = getlocal;
+                  break
+              } else {
+                  str1 = getlocal + "|" + pagina;
+              }
+          }
+          localStorage.setItem(localStoragePage, str1);
+      } else {
+          if (getlocal === pagina) {
+           } else {
+              str1 = getlocal + "|" + pagina;
+              localStorage.setItem(localStoragePage, str1);
+          }
+      }
+  }
+}
+
+LS_setPageVisited_General();
+
+</script>
+        </div>
+      </div>
+    </div>
+  </div>
+<script>
+    $(window).load(function() {
+        $(".menu__wrap ul li:first-of-type").css("display", "none");
+        $(".menu__wrap ul li:last-of-type").css("display", "none");
+        $(".menu__wrap ul li:nth-of-type(6)").css("display", "none");
+        $(".menu__wrap ul li:nth-of-type(5)").after('<li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>');
+    });
+    $("#menu-top ul li:last-child").css("display", "none");
+    $("#menu-top ul li:nth-of-type(5)").after('<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Formación<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/eventos/">Eventos</a></li><li><a href="/wps/portal/negocios-pymes/formacion/">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Sectores<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria/">Agroindustria</a></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li><a href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>');
+$(document).ready(function() {
+    var submenuNegocios1 = false;
+    $('#menu-filiales').click(function(evt) {
+        evt.preventDefault();
+        var margin = !submenuNegocios1? 0: '-1000px';
+        $('.top-nav .top-menu > .container-fluid  > .row').animate({'margin-top':margin});
+        submenuNegocios1 = !submenuNegocios1;
+    });
+});
+</script>
+<script src="/wps/wcm/connect/33e34b0b-f2a1-43f1-8505-71fa6573c4ec/slick.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-33e34b0b-f2a1-43f1-8505-71fa6573c4ec-mAWTh7G"></script>
+<!--<script src="/wps/wcm/connect/78aad75b-b7d3-4eb4-93f5-f32732007ac1/beneficios.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-78aad75b-b7d3-4eb4-93f5-f32732007ac1-mMAIRUs"></script>-->
+<script src="/wps/wcm/connect/e6a8286f-5782-420b-adf6-864eeddb1b9e/menu-active.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e6a8286f-5782-420b-adf6-864eeddb1b9e-nj.BRRD"></script>
+<script src="/wps/wcm/connect/3314fd7f-7bf1-448a-a849-ae0c0e9cacf4/js.cookie.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-3314fd7f-7bf1-448a-a849-ae0c0e9cacf4-m7EX9hF"></script>
+<script src="/wps/wcm/connect/bf1a6cdb-9769-4327-a740-ff1b806761e5/modal.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-bf1a6cdb-9769-4327-a740-ff1b806761e5-neTtwBm"></script>
+<script src="/wps/wcm/connect/298d0e23-f56b-4f96-b75c-08bf992c49f5/main%281%29.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-298d0e23-f56b-4f96-b75c-08bf992c49f5-mUuND1L"></script>
+<!-- Form Validation Plugins -->
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+
+<!-- Form container -->
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	 
+
+	 
+<div id="informacion" class="modal fade" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">×</button><h3 class="modal-title">Información importante</h3></div><div class="modal-body"><p>El sitio al que ingresarás será administrado por , quien regirá los términos y condiciones del mismo.</p><p id="electro"> </p></div><div class="modal-footer"><a href="undefined" target="_blank" class="btn btn_modal btnPrincipal">Continuar</a></div></div></div></div><div id="bancolombiaVideoCarousel" class="modal fade" role="dialog"><div class="modal-dialog" style="width: fit-content"><div class="modal-content" style="padding: 0px"><div class="modal-header"><button id="closeVideoCarousel" type="button" class="close" data-dismiss="modal">×</button></div><div class="modal-body"><iframe id="carouselPymesHome" width="560" height="315" src="" frameborder="0" allowfullscreen=""></iframe></div></div></div></div><div id="modalExterno" class="modal fade" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">×</button><h3 class="modal-title">Información importante</h3></div><div class="modal-body"><p>A partir de este momento saldrás del sitio de Grupo Bancolombia y serás redirigido al sitio de nuestra alianza.</p></div><div class="modal-footer"><a href="" target="_blank" class="btn btn_modal btnPrincipal">Continuar</a></div></div></div></div><div id="modalVideoHome" class="modal fade" role="dialog"><div class="modal-dialog" style="width: fit-content"><div class="modal-content" style="padding: 0px"><div class="modal-header"><button id="closeVideoManifiesto" type="button" class="close" data-dismiss="modal">×</button></div><div class="modal-body"><iframe id="videoManifiesto" width="560" height="315" src="//www.youtube.com/embed/misrG1k4hd4?autoplay=1&amp;mute=1" frameborder="0" allowfullscreen="" style="max-width: 100%;"></iframe></div></div></div></div></div>
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:373418,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1057072597705880");fbq("init","492215554639397");fbq("track","PageView");</script>
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=1057072597705880&amp;ev=PageView
+&amp;noscript=1">
+</noscript>
+ 
+<iframe name="__bkframe" height="0" width="0" frameborder="0" style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" src="about:blank"></iframe> 
+<script type="text/javascript" id="" src="https://tags.bkrtx.com/js/bk-coretag.js"></script><script type="text/javascript" id="">(function(){try{if(!google_tag_manager["GTM-W95WRK"].macro(39)&&"sent"!=google_tag_manager["GTM-W95WRK"].macro(40)||"sent"==google_tag_manager["GTM-W95WRK"].macro(41)&&-1==document.referrer.indexOf("bancolombia.com"))document.cookie="admanCookieReferrer\x3d"+document.referrer+"; path\x3d/; domain\x3d.grupobancolombia.com"}catch(a){console.log("control exception - create cookie - "+a.message)}})();</script><link rel="alternate" href="https://www.grupobancolombia.com/wps/portal/negocios" hreflang="es-co"><script type="text/javascript" id="">var fs=window.RequestFileSystem||window.webkitRequestFileSystem;fs&&fs(window.TEMPORARY,100,function(a){dataLayer.push({event:"navegacion",modo:"normal"})},function(a){dataLayer.push({event:"navegacion",modo:"incognito"})});</script><script type="text/javascript" id="" src="https://tags.bluekai.com/site/76129?ret=js&amp;limit=1"></script>
+<script type="text/javascript" id="">var userId=google_tag_manager["GTM-W95WRK"].macro(42)||null;window.hj("identify",userId,{identify:userId});</script> 
+<script type="text/javascript" id="">void 0!=google_tag_manager["GTM-W95WRK"].macro(36)&&bk_addPageCtx("searchQuery","undefined");void 0!=google_tag_manager["GTM-W95WRK"].macro(37)&&bk_addPageCtx("campaign","undefined");void 0!=google_tag_manager["GTM-W95WRK"].macro(38)&&bk_addPageCtx("source","undefined");bk_allow_multiple_calls=!0;bk_doJSTag(71145,1);</script> 
+ 
+	
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-locale-min_es-co.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-animate.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-sanitize.min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/breadcrumb.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/app-min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/autocompletar-min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modernizr-custom.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/classie.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/mlmenu.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/main-menu.js" defer=""></script>
+
+	<!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+    This is located here instead of the head section to improve client performance. -->
+	<div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" aria-labelledby="wpthemeComplementaryContentText">
+		<span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+		<script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!1ZE9Umy1eVNSvwoh7BCY5w/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1608073378334&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"Bancolombia_Pymes","themeRootURI":"/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/war/Bancolombia_Pymes_Info/themes/Bancolombia_Personas","themeWebAppBaseURI":"/Bancolombia_Pymes/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:Bancolombia_Pymes_Info/themes/Bancolombia_Personas/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!1ZE9Umy1eVNSvwoh7BCY5w/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Negocios Bancolombia","currentContentNodeOID":"Z6_8252I1C0M8BA80AV831QR91CL6","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"es","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!uCJXHEUSDishjgOECZ_RPw/","pocURI":"/wps/portal/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":false,"canImpersonate":false,"themeRootURI":"/Bancolombia_Pymes/themes/html/dynamicSpots","parentPageID":"Z6_000000000000000000000000A0","currentPageOID":"Z6_8252I1C0M8BA80AV831QR91CL6","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_8252I1C0M8BA80AV831QR91CL6&#034;&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_8252I1C0M8BA80AV831QR91CL6&#034;/&gt;&lt;mapping src=&#034;Z6_8252I1C0M8BA80AV831QR91CL6&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_toolbar_viewframe_validator":"0.0","social_rendering":"8.5","toolbar":"8.5","wp_worklight_ext":"0.0","wp_theme_portal_85":"0.0","wp_client_ext":"0.0","wp_oob_sample_styles":"0.0","wp_a11y":"0.0","wp_custom_page_style":"0.0","wp_simple_contextmenu_main":"0.0","wp_client_tracing":"0.0","wp_toolbar85":"0.0","wp_theme_utils":"0.0","wp_one_ui_303":"0.0","wp_toolbar_common":"0.0","wp_one_ui_dijit":"3.0.3","photon.dom":"1.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_dialog_draggable":"0.0","getting_started_module":"0.0","analytics_aggregator":"8.0","wp_theme_skin_region":"0.0","wp_dynamicContentSpots_Bancolombia_Pymes":"0.0","wp_toolbar_common_actionbar":"0.0","wp_simple_contextmenu_css":"0.0","hasBaseURL":"true","wp_client_logging":"0.0","wp_portal":"0.0","wp_ic4_wai_resources":"0.0","wp_analytics_aggregator":"0.0","wp_toolbar_contextmenu":"0.0","wp_toolbar_logo":"0.0","wp_toolbar_menuactions":"0.0","wp_layout_windowstates":"0.0","wp_dialog_css":"0.0","wp_simple_contextmenu_ext":"0.0","wp_photon_dom":"0.0","wp_simple_contextmenu_templates":"0.0","wp_state_page_modes":"0.0","wp_toolbar_sitepreview":"0.0","wp_toolbar_projectmenu":"0.0","wp_toolbar_actionbar":"0.0","wp_searchbar":"0.0","wp_toolbar_moremenu":"0.0","wp_dialog_main":"0.0","wp_modules":"0.0","wp_one_ui_dijit_303":"0.0","wp_client_selector":"0.0","wp_hiddenpages":"0.0","wp_theme_high_contrast":"0.0","wp_client_main":"0.0","wp_social_rendering_85":"0.0","wp_theme_menus":"0.0","wp_status_bar":"0.0","oneUIDijit":"3.0.3","wp_hiddencontent":"0.0","wp_portlet_css":"0.0","wp_toolbar_utils":"0.0","wp_one_ui":"3.0.3","a11y":"1.0","wp_toolbar_host_view":"0.0","wp_dialog_util":"0.0","wp_state_page":"0.0","simple-contextmenu":"1.1","oneUI":"3.0.3","modules":"0.1","wp_simple_contextmenu_js":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512156770000&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_one_ui_303__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_theme_high_contrast__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1608073378000&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;deferred=true" style="display:none"></a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/wps/contenthandler/!ut/p/digest!F7PkhmLrHwePWbdeXGGUdw/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"></a></div>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+
+
+<script type="text/javascript" id="">(function(){var b=google_tag_manager["GTM-W95WRK"].macro(48);try{var d=1E3;setInterval(function(){try{var a=sessionStorage.getItem("_tracked_products")||"[]",c=JSON.parse(a);0<c.length&&(window.dataLayer.push({event:"impressions",products:c}),sessionStorage.setItem("_tracked_products","[]"))}catch(e){b(e)}},d)}catch(a){b(a)}})();</script><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=1.1.0&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=nvl9j&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Fnegocios" type="text/javascript"></script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-f8697186ca3a8d08bfff6b2981bb517b.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe tabindex="-1" aria-hidden="true" role="presentation" title="Intentionally blank" name="lpSS_51580512242" id="lpSS_51580512242" src="https://lpcdn.lpsnmedia.net/le_secure_storage/3.12.0.0-release_5037/storage.secure.min.html?loc=https%3A%2F%2Fwww.grupobancolombia.com&amp;site=29373698&amp;env=prod" style="width: 0px; height: 0px; position: absolute; top: -1000px; left: -1000px; display: none;"></iframe><script id="lpSS_31417272991" src="https://lpcdn.lpsnmedia.net/le_secure_storage/3.12.0.0-release_5037/storage.secure.min.js?loc=https%3A%2F%2Fwww.grupobancolombia.com&amp;site=29373698&amp;force=1&amp;env=prod"></script></body></html>
