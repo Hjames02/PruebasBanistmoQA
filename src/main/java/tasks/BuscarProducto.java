@@ -15,14 +15,15 @@ import static userinterfaces.HomePage.*;
 
 public class BuscarProducto implements Task {
 
-    private String dato1, dato2;
-    public BuscarProducto(String dato1, String dato2) {
+    private String dato1;
+    private int dato2;
+    public BuscarProducto(String dato1, int dato2) {
         this.dato1 = dato1;
         this.dato2 = dato2;
     }
 
     //public static Performable conDescripcion(String dato) {
-    public static BuscarProducto conDescripcion(String dato1, String dato2) {
+    public static BuscarProducto conDescripcion(String dato1, int dato2) {
         return  instrumented(BuscarProducto.class, dato1, dato2);
     }
 
@@ -32,13 +33,18 @@ public class BuscarProducto implements Task {
                 //Enter.theValue(dato1).into(INPUT_BUSCAR_DATO),
                 //SelectFromOptions.byVisibleText(dato2).from(),
                 //Hit.the(Keys.ENTER).into(BUTTON_BUSCAR_DATO)
-                Click.on(ENLACE_NEGOCIOS),
-                Click.on(ENLACE_HERRAMIENTAS),
+                Click.on(ENLACE_ACERCANOSOTROS),
+                Click.on(ENLACE_INFORMACIONCORPORATIVA),
+                Click.on(ENLACE_PROVEEDORES),
+                Click.on(ENLACE_DESCARGAS)
+
+                /*Click.on(ENLACE_HERRAMIENTAS),
                 Click.on(ENLACE_CONVERSORTDI),
                 Click.on(ENLACE_CALCULARTE),
                 Enter.theValue(dato1).into(INPUT_TASADEINTERES),
                 SelectFromOptions.byIndex(2).from(SELECT_PERIODICIDAD),
-                SelectFromOptions.byIndex(3).from(SELECT_CAPITALIZACION)
+                SelectFromOptions.byIndex(3).from(SELECT_CAPITALIZACION)*/
+
                 //Click.on(ENLACE_PDF)
         );
     }
